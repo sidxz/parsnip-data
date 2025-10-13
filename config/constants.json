@@ -1,0 +1,57 @@
+{
+  "ranking_standard_media": 0.45,
+  "ranking_gluconeogenic_c_source": 0.45,
+  "ranking_other": 0.10,
+  "Ranking__Impact_Of_Chemical_Inhibition_In_Vivo": 0.65,
+  "Ranking__Impact_Of_Chemical_Inhibition_Replicating_In_Vitro": 0.2,
+  "Ranking__Impact_Of_Chemical_Inhibition_Non_Replicating_In_Vitro": 0.15,
+  "Sec3_Perfect_Sum": 4,
+  "Ranking__Impact_Of_Genetic_Inhibition_In_Vivo": 0.65,
+  "Ranking__Impact_Of_Genetic_Inhibition_Replicating_In_Vitro": 0.2,
+  "Ranking__Impact_Of_Genetic_Inhibition_Non_Replicating_In_Vitro": 0.15,
+  "Glycolytic_BEST": {
+    "7H9": -20.29,
+    "Glycerol": -18.86,
+    "Dextrose": -32.36,
+    "Biotin": -21.59
+  },
+  "Glycolytic_MEDIAN": {
+    "7H9": -8.36,
+    "Glycerol": -7.59,
+    "Dextrose": -7.96,
+    "Biotin": -11.25
+  },
+  "Glycolytic_WORST": {
+    "7H9": -0.53,
+    "Glycerol": -0.11,
+    "Dextrose": 0.41,
+    "Biotin": -0.45
+  },
+  "Gluconeogenic_BEST": {
+    "Propionate": -25.49,
+    "Butyrate": -23.07,
+    "Oleic Acid": -24.06,
+    "Cholesterol": -30.51
+  },
+  "Gluconeogenic_MEDIAN": {
+    "Propionate": -9.85,
+    "Butyrate": -8.71,
+    "Oleic Acid": -9.25,
+    "Cholesterol": -14.54
+  },
+  "Gluconeogenic_WORST": {
+    "Propionate": -0.78,
+    "Butyrate": -0.47,
+    "Oleic Acid": -0.59,
+    "Cholesterol": -0.27
+  },
+  "Other_BEST": {
+    "Low Iron": -14.68
+  },
+  "Other_MEDIAN": {
+    "Low Iron": -7.01
+  },
+  "Other_WORST": {
+    "Low Iron": -0.94
+  }
+}
