@@ -1,0 +1,9 @@
+[
+  {
+    targetName: 'MmpL3',
+    accessionNumber: ['Rv0206c']
+    chemicalInhibitionScore: 0.85,
+    geneticInhibitionScore: 0.78,
+    likelihoodScore: 0.92,
+  }
+]
