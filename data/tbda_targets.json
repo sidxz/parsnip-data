@@ -2,8 +2,88 @@
   {
     "targetName": "MmpL3",
     "accessionNumber": ["Rv0206c"],
-    "chemicalInhibitionScore": 85,
-    "geneticInhibitionScore": 78,
-    "likelihoodScore": 92
+    "chemicalInhibitionScore": 30,
+    "geneticInhibitionScore": 77,
+    "likelihoodScore": 0
+  },
+
+  {
+    "targetName": "RpoB",
+    "accessionNumber": ["Rv0667"],
+    "chemicalInhibitionScore": 89,
+    "geneticInhibitionScore": 9,
+    "likelihoodScore": 0
+  },
+
+  {
+    "targetName": "EmbAB",
+    "accessionNumber": ["Rv3794", "Rv3795"],
+    "chemicalInhibitionScore": 0,
+    "geneticInhibitionScore": 0,
+    "likelihoodScore": 0
+  },
+
+  {
+    "targetName": "Pks13",
+    "accessionNumber": ["Rv3800c"],
+    "chemicalInhibitionScore": 36,
+    "geneticInhibitionScore": 12,
+    "likelihoodScore": 0
+  },
+
+  {
+    "targetName": "Mdh",
+    "accessionNumber": ["Rv1240"],
+    "chemicalInhibitionScore": 16,
+    "geneticInhibitionScore": 40,
+    "likelihoodScore": 0
+  },
+
+  {
+    "targetName": "SecY",
+    "accessionNumber": ["Rv0732"],
+    "chemicalInhibitionScore": 10,
+    "geneticInhibitionScore": 15,
+    "likelihoodScore": 0
+  },
+
+  {
+    "targetName": "MenG",
+    "accessionNumber": ["Rv0558"],
+    "chemicalInhibitionScore": 5,
+    "geneticInhibitionScore": 15,
+    "likelihoodScore": 0
+  },
+
+  {
+    "targetName": "FtsZ",
+    "accessionNumber": ["Rv2150c"],
+    "chemicalInhibitionScore": 3,
+    "geneticInhibitionScore": 17,
+    "likelihoodScore": 0
+  },
+
+  {
+    "targetName": "NadE",
+    "accessionNumber": ["Rv2438c"],
+    "chemicalInhibitionScore": 0,
+    "geneticInhibitionScore": 86,
+    "likelihoodScore": 0
+  },
+
+  {
+    "targetName": "RibF",
+    "accessionNumber": ["Rv2786c"],
+    "chemicalInhibitionScore": 0,
+    "geneticInhibitionScore": 6,
+    "likelihoodScore": 0
+  },
+
+  {
+    "targetName": "GyrAB",
+    "accessionNumber": ["Rv0005", "Rv0006"],
+    "chemicalInhibitionScore": 75,
+    "geneticInhibitionScore": 14,
+    "likelihoodScore": 0
   }
 ]
