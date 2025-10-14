@@ -1076,6 +1076,7 @@
       "subSection": "a) Metabolic liabilities",
       "sectionDescription": "",
       "questionBody": "Is the concentration of supplement in human tissue too low to neutralize inactivation of this target? ",
+
       "toolTip": "",
       "questionType": "MultipleChoice",
       "isRequired": false,
@@ -1174,6 +1175,7 @@
       "subSection": "c) Other",
       "sectionDescription": "",
       "questionBody": "Does the Mtb genome contain functionally redundant genes of this target?",
+
       "toolTip": "",
       "questionType": "MultipleChoice",
       "isRequired": false,
@@ -1560,6 +1562,7 @@
       "subSection": "(a) High Throughput Screening Feasibility",
       "sectionDescription": "",
       "questionBody": "Has small scale screening against this target been performed?",
+
       "toolTip": "",
       "questionType": "MultipleChoice",
       "isRequired": false,
@@ -1749,6 +1752,8 @@
       "isArchived": false,
       "isDeleted": false
     },
+    
+
     {
       "identification": "6B1D",
       "module": "TargetPromotionQuestions",
@@ -1941,6 +1946,7 @@
       "isArchived": false,
       "isDeleted": false
     },
+
     {
       "identification": "6B2A",
       "module": "TargetPromotionQuestions",
@@ -2037,6 +2043,7 @@
       "isArchived": false,
       "isDeleted": false
     },
+
     {
       "identification": "6B2C",
       "module": "TargetPromotionQuestions",
@@ -2085,6 +2092,8 @@
       "isArchived": false,
       "isDeleted": false
     },
+
+    
     {
       "identification": "6B3D",
       "module": "TargetPromotionQuestions",
@@ -2493,7 +2502,7 @@
           "description": "",
           "isInverted": null,
           "weight": 1,
-          "id": "274ea204-094c-473c-9812-6fe1eeee6929",
+          "id": "u3v4w5x6-y7z8-a9b0-c1d2-e3f4g5h6i7j8",
           "isArchived": false,
           "isDeleted": false
         },
@@ -2503,7 +2512,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "0d22e79e-c973-41b3-8296-e0eb1695e31f",
+          "id": "k9l0m1n2-o3p4-q5r6-s7t8-u9v0w1x2y3z4",
           "isArchived": false,
           "isDeleted": false
         },
@@ -2513,12 +2522,12 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "4d464286-746a-4b2c-80d2-426faebd289b",
+          "id": "a5b6c7d8-e9f0-g1h2-i3j4-k5l6m7n8o9p0",
           "isArchived": false,
           "isDeleted": false
         }
       ],
-      "id": "cf72a8b0-0326-4c05-b0d9-2389c28d83b0",
+      "id": "e7f8g9h0-i1j2-k3l4-m5n6-o7p8q9r0s1t2",
       "isArchived": false,
       "isDeleted": false
     },
@@ -2641,6 +2650,7 @@
       "isArchived": false,
       "isDeleted": false
     },
+
     {
       "identification": "6C6",
       "module": "TargetPromotionQuestions",
@@ -2664,6 +2674,7 @@
           "isArchived": false,
           "isDeleted": false
         },
+        
         {
           "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
           "answer": "SCREENING HIT",
@@ -2749,6 +2760,7 @@
       "isArchived": false,
       "isDeleted": false
     },
+
     {
       "identification": "6C7",
       "module": "TargetPromotionQuestions",
@@ -2790,7 +2802,7 @@
           "weight": 1,
           "id": "5f4e3d2c-1b0a-9a8b-7c6d-5e4f3g2h1i0j",
           "isArchived": false,
-          "isDeleted": false
+          "isDeleted": false  
         },
         {
           "questionId": "a9b8c7d6-e5f4-3210-9a8b-7c6d5e4f3g2h",
@@ -2802,11 +2814,9 @@
           "isArchived": false,
           "isDeleted": false
         }
-      ],
-      "id": "a9b8c7d6-e5f4-3210-9a8b-7c6d5e4f3g2h",
-      "isArchived": false,
-      "isDeleted": false
+      ]
     },
+
     {
       "identification": "6C3",
       "module": "TargetPromotionQuestions",
@@ -2826,9 +2836,9 @@
           "description": "",
           "isInverted": null,
           "weight": 1,
-          "id": "54557550-deef-4ab8-b5f5-fca1d221148e",
+          "id": "r7s8t9u0-v1w2-x3y4-z5a6-b7c8d9e0f1g2",
           "isArchived": false,
-          "isDeleted": false
+          "isDeleted": false  
         },
         {
           "questionId": "3c9e8f7a-6b5c-4d3e-2f1g-0h9i8j7k6l5m",
@@ -2850,10 +2860,8 @@
           "isArchived": false,
           "isDeleted": false
         }
-      ],
-      "id": "3c9e8f7a-6b5c-4d3e-2f1g-0h9i8j7k6l5m",
-      "isArchived": false,
-      "isDeleted": false
+        
+      ]
     },
     {
       "identification": "6C4",
@@ -2868,7 +2876,7 @@
       "weight": 0,
       "isAdminOnly": false,
       "possibleAnswers": [
-        {
+         {
           "questionId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
           "answer": "YES",
           "description": "",
@@ -2884,7 +2892,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "73f151b1-9c6c-4d57-9969-9a9d4ec9d51b",
+          "id": "t1u2v3w4-x5y6-z7a8-b9c0-d1e2f3g4h5i6",
           "isArchived": false,
           "isDeleted": false
         },
@@ -2894,7 +2902,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "3627a2c9-c866-4738-8b12-647f95bf1bf7",
+          "id": "j7k8l9m0-n1o2-p3q4-r5s6-t7u8v9w0x1y2",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2903,6 +2911,7 @@
       "isArchived": false,
       "isDeleted": false
     },
+
     {
       "identification": "6C5B",
       "module": "TargetPromotionQuestions",
@@ -2922,7 +2931,7 @@
           "description": "",
           "isInverted": null,
           "weight": 4,
-          "id": "8932b21c-636e-47c9-83e1-6f4177cc481c",
+          "id": "q1p2o3n4-m5l6-k7j8-i9h0-g1f2e3d4c5b6",
           "isArchived": false,
           "isDeleted": false
         },
@@ -2932,7 +2941,7 @@
           "description": "",
           "isInverted": null,
           "weight": 2,
-          "id": "3d55f99a-acb4-4040-95f4-9d332bc7e836",
+          "id": "5m6l7k8j-9i0h-g1f2-e3d4-c5b6a7n8o9p0",
           "isArchived": false,
           "isDeleted": false
         },
@@ -2942,7 +2951,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "727727ca-e3c3-4c2a-9a46-72297454e9a8",
+          "id": "r7s8t9u0-v1w2-x3y4-z5a6-b7c8d9e0f1g2",
           "isArchived": false,
           "isDeleted": false
         },
@@ -2952,15 +2961,17 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "682d173f-cffe-4932-9788-65e7f5855d12",
+          "id": "5f4e3d2c-1b0a-9a8b-7c6d-5e4f3g2h1i0j",
           "isArchived": false,
           "isDeleted": false
         }
+
       ],
       "id": "9a8b7c6d-5e4f-3g2h-1i0j-9k8l7m6n5o4p",
       "isArchived": false,
-      "isDeleted": false
+      "isDeleted": false  
     },
+
     {
       "identification": "6D1",
       "module": "TargetPromotionQuestions",
@@ -3009,6 +3020,8 @@
       "isArchived": false,
       "isDeleted": false
     },
+
+
     {
       "identification": "6D2",
       "module": "TargetPromotionQuestions",
@@ -3022,7 +3035,7 @@
       "weight": 0,
       "isAdminOnly": false,
       "possibleAnswers": [
-        {
+          {
           "questionId": "f520aa0f-3b03-4397-91d3-a22554b9da91",
           "answer": "YES",
           "description": "The consequence of inhibiting the human ortholog is significant.",
@@ -3100,11 +3113,13 @@
           "isArchived": false,
           "isDeleted": false
         }
+        
       ],
       "id": "51a7d00f-2d4b-4f7b-b659-06216c4035a2",
       "isArchived": false,
       "isDeleted": false
     },
+
     {
       "identification": "6D5A",
       "module": "TargetPromotionQuestions",
@@ -3172,7 +3187,7 @@
           "description": "",
           "isInverted": null,
           "weight": 1,
-          "id": "82130355-fa70-4d15-ab9a-3e56d77fcbbf",
+          "id": "q7p6o5n4-m3l2-k1j0-i9h8-g7f6e5d4c3b2",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3192,14 +3207,14 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "2d773153-91f8-42ae-80fb-6bcb1d4da33e",
+          "id": "t6s5r4q3-p2o1-n0m9-l8k7-j6i5h4g3f2e1",
           "isArchived": false,
           "isDeleted": false
         }
       ],
       "id": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
       "isArchived": false,
-      "isDeleted": false
+      "isDeleted": false    
     },
     {
       "identification": "6D5C",
@@ -3230,7 +3245,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "6a4fa85c-15d4-429d-9dec-7777e1c117c5",
+          "id": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3240,7 +3255,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "45d861c3-274b-4744-b1ea-830130c895fd",
+          "id": "q7p6o5n4-m3l2-k1j0-i9h8-g7f6e5d4c3b2",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3278,7 +3293,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "f44b9386-f6dc-49f9-9142-d921ac8dc85b",
+          "id": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3288,12 +3303,12 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "8f0bd402-f4a7-49c3-9153-71f4d5078978",
+          "id": "u6t5s4r3-q2p1-o0n9-m8l7-k6j5i4h3g2f1",
           "isArchived": false,
           "isDeleted": false
         }
       ],
-      "id": "8245d16e-cd0e-4e7b-a9e6-7e984500465c",
+      "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
       "isArchived": false,
       "isDeleted": false
     },
@@ -3336,7 +3351,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "a8082f78-48da-4fba-ad68-47195a83195b",
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3364,7 +3379,7 @@
           "description": "",
           "isInverted": null,
           "weight": 1,
-          "id": "eb23af8a-ed3c-4be5-9907-55b75ff2cf59",
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3374,7 +3389,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "872528b3-be32-4221-bdeb-9092f5e5083b",
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3384,12 +3399,12 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "f6fd4447-50dc-4bb2-8295-41aab9357bf9",
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
           "isArchived": false,
           "isDeleted": false
         }
       ],
-      "id": "e577f430-338c-4a91-99e9-985790f12103",
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
       "isArchived": false,
       "isDeleted": false
     },
@@ -3412,7 +3427,7 @@
           "description": "",
           "isInverted": null,
           "weight": 1,
-          "id": "2712a4de-98fd-40e2-b18b-9e4d05b5c1bd",
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3422,7 +3437,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "51ae6f61-cf0c-4e99-969f-072ce3c80e15",
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3432,12 +3447,12 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "02c7c07f-bd5d-4714-bed4-cb747e6512b8",
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
           "isArchived": false,
           "isDeleted": false
         }
       ],
-      "id": "6261ed38-71a9-447c-af2a-8b11349eba14",
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
       "isArchived": false,
       "isDeleted": false
     },
@@ -3455,12 +3470,12 @@
       "isAdminOnly": false,
       "possibleAnswers": [
         {
-          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6", 
           "answer": "YES",
           "description": "",
           "isInverted": null,
           "weight": 1,
-          "id": "544f9db4-bd7d-497d-b17e-667164772f32",
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3470,7 +3485,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "df5fb6fd-b722-428c-a479-32ff9a803a26",
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3480,12 +3495,12 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "5c1a31ee-ac18-4073-a46c-ec51225c71b4",
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
           "isArchived": false,
           "isDeleted": false
         }
       ],
-      "id": "b71a5170-d743-414d-8070-d9b0f9f2da7c",
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
       "isArchived": false,
       "isDeleted": false
     },
@@ -3508,7 +3523,7 @@
           "description": "",
           "isInverted": null,
           "weight": 1,
-          "id": "2d368261-9f5e-4dda-8d34-e331b927431f",
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3518,7 +3533,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "d850fd25-ade9-4313-95a6-4a382e883e21",
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3528,12 +3543,12 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "2c857e1d-62f2-4e56-aa76-989cbc5c8060",
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
           "isArchived": false,
           "isDeleted": false
         }
       ],
-      "id": "1d360711-60b5-4b18-a2cb-10bf7a0da262",
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
       "isArchived": false,
       "isDeleted": false
     },
@@ -3556,7 +3571,7 @@
           "description": "",
           "isInverted": null,
           "weight": 1,
-          "id": "c60d59eb-4d57-4d43-af08-549078e078a8",
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3566,7 +3581,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "7f665213-3bd9-41c3-a8d8-645279edfff5",
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3576,12 +3591,12 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "caa23586-4c16-41de-b03c-6b3fc7cc62f5",
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
           "isArchived": false,
           "isDeleted": false
         }
       ],
-      "id": "0b1ca16c-7fbe-4197-8287-9225e2a9df30",
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
       "isArchived": false,
       "isDeleted": false
     },
@@ -3604,7 +3619,7 @@
           "description": "",
           "isInverted": null,
           "weight": 1,
-          "id": "560c234e-ae02-45b8-942c-9403e2d095b0",
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3614,7 +3629,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "6b6a085c-97ee-4aa9-92e5-0c3ac8fdd348",
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3624,12 +3639,12 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "b6ce5f5e-e3e0-4ae0-aef0-33f02d6aaad8",
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
           "isArchived": false,
           "isDeleted": false
         }
       ],
-      "id": "f6d35353-d262-405c-9d95-7e273450d564",
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
       "isArchived": false,
       "isDeleted": false
     },
@@ -3652,7 +3667,7 @@
           "description": "",
           "isInverted": null,
           "weight": 1,
-          "id": "86bda2e3-7bea-40ec-8dcc-65892b25c2a3",
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3662,7 +3677,7 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "e8f80223-47c8-42b6-b347-033f51f01998",
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
           "isArchived": false,
           "isDeleted": false
         },
@@ -3672,12 +3687,12 @@
           "description": "",
           "isInverted": null,
           "weight": 0,
-          "id": "375b6005-df94-4218-822f-0796f12c1f59",
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
           "isArchived": false,
           "isDeleted": false
         }
       ],
-      "id": "888b2c23-9306-469e-a89f-da02fe353635",
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
       "isArchived": false,
       "isDeleted": false
     }
