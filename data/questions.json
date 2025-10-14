@@ -1237,7 +1237,7 @@
           "answer": "UNKNOWN",
           "description": "The submitter has insufficient knowledge on this question or protein preparation on has not been attempted.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "b6667118-1e97-4320-8220-e631cc1d08e6",
           "isArchived": false,
           "isDeleted": false
@@ -1247,7 +1247,7 @@
           "answer": "NO",
           "description": "Attempts to prepare the protein have been unsuccessful.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "1a8b6ecf-9185-4739-93a7-50a08ab1d5d8",
           "isArchived": false,
           "isDeleted": false
@@ -1295,7 +1295,7 @@
           "answer": "UNKNOWN",
           "description": "The submitter has insufficient knowledge on this question.  Alternatively, an assay for this protein has not been attempted.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "0700fa3b-c7ee-4c0b-906b-5bbe5f39cf1f",
           "isArchived": false,
           "isDeleted": false
@@ -1305,7 +1305,7 @@
           "answer": "NO",
           "description": "An assay for Mtb protein has been attempted but has not been established.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "f5a76724-b50a-4be6-b82c-88c2da82a21a",
           "isArchived": false,
           "isDeleted": false
@@ -1333,7 +1333,7 @@
           "answer": "UNKNOWN",
           "description": "The submitter has insufficient knowledge on this question.  Alternatively, an assay for this protein has not been attempted.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "47a207d1-462a-46e1-8567-15119e5a2dae",
           "isArchived": false,
           "isDeleted": false
@@ -1343,7 +1343,7 @@
           "answer": "NO",
           "description": "An assay for an ortholog has been attempted but has not been established.  Please provide details.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "d70204f5-be44-4c49-a60a-21345dda0dba",
           "isArchived": false,
           "isDeleted": false
@@ -1381,7 +1381,7 @@
           "answer": "NO",
           "description": "Factors make HTS screening of this protein difficult or impossible (i.e., there is one or more \"no\" responses to the following sub questions). Please provide details.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "cac63c85-89f6-478b-a17f-1a8895d40b2b",
           "isArchived": false,
           "isDeleted": false
@@ -1391,7 +1391,7 @@
           "answer": "UNKNOWN",
           "description": "The submitter has insufficient knowledge on this question.  Alternatively, a HTS screen for this protein has not been attempted.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "0ac53722-5b14-4181-8a27-8a2373c59e39",
           "isArchived": false,
           "isDeleted": false
@@ -1401,7 +1401,7 @@
           "answer": "YES",
           "description": "An HTS screen has been performed.  Alternatively, answers to sub-questions indicate that screening is feasible. Please provide details.",
           "isInverted": null,
-          "weight": null,
+          "weight": 2,
           "id": "d67885c0-83a1-4f53-acd6-47b3147d770b",
           "isArchived": false,
           "isDeleted": false
@@ -1429,7 +1429,7 @@
           "answer": "UNKNOWN",
           "description": "The submitter has insufficient knowledge on this question.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "0788172a-c1f3-409a-b858-cb0c27f3d982",
           "isArchived": false,
           "isDeleted": false
@@ -1449,7 +1449,7 @@
           "answer": "NO",
           "description": "Methods to prepare sufficient quantity of protein are not available.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "0346d89f-b72a-40dd-b344-e40efdb04d51",
           "isArchived": false,
           "isDeleted": false
@@ -1487,7 +1487,7 @@
           "answer": "UNKNOWN",
           "description": "The submitter has insufficient knowledge on this question.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "b1ecdb4c-dc96-45cb-8e13-bc266f47a59d",
           "isArchived": false,
           "isDeleted": false
@@ -1497,7 +1497,7 @@
           "answer": "NO",
           "description": "Assay type is not a member of the following list.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "0b012f5f-04cf-4468-8f66-062f51874069",
           "isArchived": false,
           "isDeleted": false
@@ -1752,68 +1752,7 @@
       "isArchived": false,
       "isDeleted": false
     },
-    {
-      "identification": "6B1",
-      "module": "TargetPromotionQuestions",
-      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
-      "subSection": "(b) Structure Based Feasibility",
-      "sectionDescription": "",
-      "questionBody": "Relevance of Mtb protein structure?",
-
-      "toolTip": "",
-      "questionType": "MultipleChoice",
-      "isRequired": false,
-      "isInverted": false,
-      "isDisabled": false,
-      "weight": 0,
-      "isAdminOnly": false,
-      "possibleAnswers": [
-        {
-          "questionId": "43607bbf-5119-451a-9803-3f384882d150",
-          "answer": "HIGH",
-          "description": "Answer to 6b1d and/or 6b1e is \"Yes\".  Alternatively, answer to question 6b1a is \"Yes\", 6b1b is \"High\".",
-          "isInverted": null,
-          "weight": null,
-          "id": "be34f1ec-6b33-4d1d-83e5-e1745ce5810b",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "43607bbf-5119-451a-9803-3f384882d150",
-          "answer": "MEDIUM",
-          "description": "Answer to question 6b1a is \"Yes\", 6b1b is \"Medium\".",
-          "isInverted": null,
-          "weight": null,
-          "id": "765a1ac6-6beb-4220-9b19-286e97c4b492",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "43607bbf-5119-451a-9803-3f384882d150",
-          "answer": "LOW",
-          "description": "Answer to question 6b1a is \"Yes\", 6b1b is \"Low\".",
-          "isInverted": null,
-          "weight": null,
-          "id": "53dd8552-c822-400b-8161-c08bd49babe5",
-          "isArchived": false,
-          "isDeleted": false
-        },
-
-        {
-          "questionId": "43607bbf-5119-451a-9803-3f384882d150",
-          "answer": "N/A",
-          "description": "Answer to question 6b1a is \"No\".",
-          "isInverted": null,
-          "weight": null,
-          "id": "6291a89e-77bc-4db8-819f-1ba8403f95d4",
-          "isArchived": false,
-          "isDeleted": false
-        }
-      ],
-      "id": "43607bbf-5119-451a-9803-3f384882d150",
-      "isArchived": false,
-      "isDeleted": false
-    },
+    
 
     {
       "identification": "6B1D",
@@ -2009,58 +1948,6 @@
     },
 
     {
-      "identification": "6B2",
-      "module": "TargetPromotionQuestions",
-      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
-      "subSection": "(b) Structure Based Feasibility",
-      "sectionDescription": "",
-      "questionBody": "Mtb protein structure(s) quality?",
-
-      "toolTip": "",
-      "questionType": "MultipleChoice",
-      "isRequired": false,
-      "isInverted": false,
-      "isDisabled": false,
-      "weight": 0,
-      "isAdminOnly": false,
-      "possibleAnswers": [
-        {
-          "questionId": "949376fd-4dad-42ea-bf7f-a7ac53311715",
-          "answer": "HIGH",
-          "description": "",
-          "isInverted": null,
-          "weight": null,
-          "id": "f4fbb5b1-2eea-4fad-9e4a-b7b5fa8ce7d9",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "949376fd-4dad-42ea-bf7f-a7ac53311715",
-          "answer": "MEDIUM",
-          "description": "",
-          "isInverted": null,
-          "weight": null,
-          "id": "08552a45-d5c4-4aae-b755-a54b75428c69",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "949376fd-4dad-42ea-bf7f-a7ac53311715",
-          "answer": "LOW",
-          "description": "",
-          "isInverted": null,
-          "weight": null,
-          "id": "1f84a805-a2dc-4f19-a8e7-5ee04ca1a351",
-          "isArchived": false,
-          "isDeleted": false
-        }
-      ],
-      "id": "949376fd-4dad-42ea-bf7f-a7ac53311715",
-      "isArchived": false,
-      "isDeleted": false
-    },
-
-    {
       "identification": "6B2A",
       "module": "TargetPromotionQuestions",
       "section": "Section 6: Likelihood of identifying and inhibitor/activator",
@@ -2206,66 +2093,7 @@
       "isDeleted": false
     },
 
-    {
-      "identification": "6B3",
-      "module": "TargetPromotionQuestions",
-      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
-      "subSection": "(b) Structure Based Feasibility",
-      "sectionDescription": "",
-      "questionBody": "Relevance of ortholog protein structure?",
-      "toolTip": "",
-      "questionType": "MultipleChoice",
-      "isRequired": false,
-      "isInverted": false,
-      "isDisabled": false,
-      "weight": 0,
-      "isAdminOnly": false,
-      "possibleAnswers": [
-        {
-          "questionId": "7c8f5a34-94f2-4969-a1bc-e42caad24669",
-          "answer": "HIGH",
-          "description": "",
-          "isInverted": null,
-          "weight": null,
-          "id": "34c8080e-821e-466d-ac3f-53910a163897",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "7c8f5a34-94f2-4969-a1bc-e42caad24669",
-          "answer": "MEDIUM",
-          "description": "",
-          "isInverted": null,
-          "weight": null,
-          "id": "071a4a12-0c19-4745-9b8d-bc7b0ef114a7",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "7c8f5a34-94f2-4969-a1bc-e42caad24669",
-          "answer": "LOW",
-          "description": "",
-          "isInverted": null,
-          "weight": null,
-          "id": "a37c5f6a-24e4-4cfc-8306-467870ef1e2a",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "7c8f5a34-94f2-4969-a1bc-e42caad24669",
-          "answer": "N/A",
-          "description": "",
-          "isInverted": null,
-          "weight": null,
-          "id": "1e74049d-28bf-49f6-bb1e-0445729cbf60",
-          "isArchived": false,
-          "isDeleted": false
-        }
-      ],
-      "id": "7c8f5a34-94f2-4969-a1bc-e42caad24669",
-      "isArchived": false,
-      "isDeleted": false
-    },
+    
     {
       "identification": "6B3D",
       "module": "TargetPromotionQuestions",
@@ -2460,57 +2288,6 @@
         }
       ],
       "id": "m5n6o7p8-q9r0-s1t2-u3v4-w5x6y7z8a9b0",
-      "isArchived": false,
-      "isDeleted": false
-    },
-    {
-      "identification": "6B4",
-      "module": "TargetPromotionQuestions",
-      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
-      "subSection": "(b) Structure Based Feasibility",
-      "sectionDescription": "",
-      "questionBody": "Ortholog protein structure(s) quality",
-      "toolTip": "",
-      "questionType": "MultipleChoice",
-      "isRequired": false,
-      "isInverted": false,
-      "isDisabled": false,
-      "weight": 0,
-      "isAdminOnly": false,
-      "possibleAnswers": [
-        {
-          "questionId": "69e6aa4a-383b-4345-8928-84b7ae9e8019",
-          "answer": "HIGH",
-          "description": "Answer to question 6b4a is \"Yes\", or answer to questions 6b4b and 6b4c are \"Yes\"",
-          "isInverted": null,
-          "weight": null,
-          "id": "7b1b84fd-b638-42bb-a09e-3e6e3212fa29",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "69e6aa4a-383b-4345-8928-84b7ae9e8019",
-          "answer": "MEDIUM",
-          "description": "Answer to questions 6b4a is \"No\" and 6b4b is \"Yes\" and 6b4c is \"No\"",
-          "isInverted": null,
-          "weight": null,
-          "id": "9e22c620-b3bd-492d-938f-7da840c22286",
-          "isArchived": false,
-          "isDeleted": false
-        },
-
-        {
-          "questionId": "69e6aa4a-383b-4345-8928-84b7ae9e8019",
-          "answer": "LOW",
-          "description": "Answer to questions 6b4a, 6b4b and 6b4c are \"No\"",
-          "isInverted": null,
-          "weight": null,
-          "id": "70cc7141-05e3-4b9d-9cca-aa6819d86d9c",
-          "isArchived": false,
-          "isDeleted": false
-        }
-      ],
-      "id": "69e6aa4a-383b-4345-8928-84b7ae9e8019",
       "isArchived": false,
       "isDeleted": false
     },
