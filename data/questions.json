@@ -3195,13 +3195,12 @@
       "isDeleted": false  
     },
 
-
     {
-      "identification": "6D2",
+      "identification": "6D1",
       "module": "TargetPromotionQuestions",
       "section": "Section 6: Likelihood of identifying and inhibitor/activator",
       "subSection": "(d) Safety Considerations",
-      "questionBody": "The consequence of inhibiting the human ortholog is significant",
+      "questionBody": "Does the human genome encode a structurally similar counterpart to this target?",
       "questionType": "MultipleChoice",
       "isRequired": false,
       "isInverted": false,
@@ -3210,11 +3209,71 @@
       "isAdminOnly": false,
       "possibleAnswers": [
         {
+          "questionId": "c3b2a1f0-e9d8-c7b6-a5f4-3e2d1c0b9a8f",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "d09e8f7g-6h5i-4j3k-2l1m-0n9o8p7q6r5s",
+          "isArchived": false,
+          "isDeleted": false
+        }
+        {
+          "questionId": "c3b2a1f0-e9d8-c7b6-a5f4-3e2d1c0b9a8f",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 6,
+          "id": "0a9b8c7d-6e5f-4g3h-2i1j-0k9l8m7n6o5p",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "c3b2a1f0-e9d8-c7b6-a5f4-3e2d1c0b9a8f",
+          "answer": "UNKNOWN",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "4p5o6n7m-8l9k-0j1i-2h3g-4f5e6d7c8b9a",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "c3b2a1f0-e9d8-c7b6-a5f4-3e2d1c0b9a8f",
+      "isArchived": false,
+      "isDeleted": false
+    },
+
+
+    {
+      "identification": "6D2",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(d) Safety Considerations",
+      "questionBody": "Is the consequence of inhibiting the human ortholog to this target significant?",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+          {
+          "questionId": "f520aa0f-3b03-4397-91d3-a22554b9da91",
+          "answer": "YES",
+          "description": "The consequence of inhibiting the human ortholog is significant.",
+          "isInverted": null,
+          "weight": 0,
+          "id": "042b689f-8f62-4254-9c02-8f2f9dec4ee6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
           "questionId": "f520aa0f-3b03-4397-91d3-a22554b9da91",
           "answer": "NO",
           "description": "The consequence of inhibiting the human ortholog is not significant.",
           "isInverted": null,
-          "weight": null,
+          "weight": 3,
           "id": "72e6d146-826e-4ab4-b5b5-f63dac6e2ea0",
           "isArchived": false,
           "isDeleted": false
@@ -3224,18 +3283,8 @@
           "answer": "UNKNOWN",
           "description": "It is unknown what the consequence of inhibiting the human ortholog is.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "df8ab74b-0ac3-4fb3-a344-49dce6697db3",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "f520aa0f-3b03-4397-91d3-a22554b9da91",
-          "answer": "YES",
-          "description": "The consequence of inhibiting the human ortholog is significant.",
-          "isInverted": null,
-          "weight": null,
-          "id": "042b689f-8f62-4254-9c02-8f2f9dec4ee6",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3249,7 +3298,7 @@
       "module": "TargetPromotionQuestions",
       "section": "Section 6: Likelihood of identifying and inhibitor/activator",
       "subSection": "(d) Safety Considerations",
-      "questionBody": "non-Mtb strains which could be used to characterize compounds with broad spectrum activity are available",
+      "questionBody": "Are non-Mtb strains available which could be used to characterize compounds with broad spectrum activity?",
       "questionType": "MultipleChoice",
       "isRequired": false,
       "isInverted": false,
@@ -3259,10 +3308,20 @@
       "possibleAnswers": [
         {
           "questionId": "51a7d00f-2d4b-4f7b-b659-06216c4035a2",
+          "answer": "YES",
+          "description": "Mtb strains which could be used to characterize compounds with broad spectrum activity are available.",
+          "isInverted": null,
+          "weight": 1,
+          "id": "9ebe4757-bdbb-431a-ae0d-56a857c88881",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "51a7d00f-2d4b-4f7b-b659-06216c4035a2",
           "answer": "NO",
           "description": "Mtb strains which could be used to characterize compounds with broad spectrum activity are not available.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "b3eb6500-a683-45a6-bfeb-e7484d6a7ead",
           "isArchived": false,
           "isDeleted": false
@@ -3272,35 +3331,24 @@
           "answer": "UNKNOWN",
           "description": "It is unknown whether Mtb strains which could be used to characterize compounds with broad spectrum activity are available.",
           "isInverted": null,
-          "weight": null,
+          "weight": 0,
           "id": "1bd1459e-22e5-408e-8937-6c40e5432b37",
           "isArchived": false,
           "isDeleted": false
-        },
-        {
-          "questionId": "51a7d00f-2d4b-4f7b-b659-06216c4035a2",
-          "answer": "YES",
-          "description": "Mtb strains which could be used to characterize compounds with broad spectrum activity are available.",
-          "isInverted": null,
-          "weight": null,
-          "id": "9ebe4757-bdbb-431a-ae0d-56a857c88881",
-          "isArchived": false,
-          "isDeleted": false
         }
+        
       ],
       "id": "51a7d00f-2d4b-4f7b-b659-06216c4035a2",
       "isArchived": false,
       "isDeleted": false
     },
+
     {
-      "identification": "6D5",
+      "identification": "6D5A",
       "module": "TargetPromotionQuestions",
       "section": "Section 6: Likelihood of identifying and inhibitor/activator",
       "subSection": "(d) Safety Considerations",
-      "sectionDescription": "",
-      "questionBody": "Safety assessment of compounds with confirmed on-target activity",
-
-      "toolTip": "",
+      "questionBody": "Have inhibitors been identified that do not inhibit or induce relevant human cytochrome p450s?",
       "questionType": "MultipleChoice",
       "isRequired": false,
       "isInverted": false,
@@ -3309,95 +3357,567 @@
       "isAdminOnly": false,
       "possibleAnswers": [
         {
-          "questionId": "dde1b063-65e5-42f0-8b2c-45c6939d3113",
-          "answer": "DRUG WO WARNINGS",
-          "description": "A marketed drug without serious safety related warnings, precautions, adverse events, or restrictions on dose/populations.",
+          "questionId": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r5s6",
+          "answer": "YES",
+          "description": "",
           "isInverted": null,
-          "weight": null,
-          "id": "8eeee508-321f-46b2-b4f4-4bd2e0f7d81a",
+          "weight": 1,
+          "id": "t6s5r4q3-p2o1-n0m9-l8k7-j6i5h4g3f2e1",
           "isArchived": false,
           "isDeleted": false
         },
         {
-          "questionId": "dde1b063-65e5-42f0-8b2c-45c6939d3113",
-          "answer": "ACUTE EFFICACY",
-          "description": "Inhibitors which showed no toxicity in acute efficacy studies have been identified.",
+          "questionId": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r5s6",
+          "answer": "NO",
+          "description": "",
           "isInverted": null,
-          "weight": null,
-          "id": "8317dcc2-ada2-46f7-a6eb-c8c74dd8bd7b",
+          "weight": 3,
+          "id": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
           "isArchived": false,
           "isDeleted": false
         },
         {
-          "questionId": "dde1b063-65e5-42f0-8b2c-45c6939d3113",
-          "answer": "PRECLINICAL SAFETY",
-          "description": "Inhibitors which showed no toxicity in in vivo preclinical safety studies have been identified.",
+          "questionId": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r5s6",
+          "answer": "UNKNOWN",
+          "description": "",
           "isInverted": null,
-          "weight": null,
-          "id": "00a5892f-f0c4-47aa-bd35-27174c42de6b",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "dde1b063-65e5-42f0-8b2c-45c6939d3113",
-          "answer": "IND ENABLING",
-          "description": "Drug candidates which showed no toxicity in IND enabling safety studies have been identified.",
-          "isInverted": null,
-          "weight": null,
-          "id": "2882dbd6-f90b-4983-976c-a3e6cacfea06",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "dde1b063-65e5-42f0-8b2c-45c6939d3113",
-          "answer": "NON-CYTOTOXIC",
-          "description": "Inhibitors which are not generally cytotoxic have been identified.",
-          "isInverted": null,
-          "weight": null,
-          "id": "80632cc9-397d-4d42-8209-59e38121e079",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "dde1b063-65e5-42f0-8b2c-45c6939d3113",
-          "answer": "DRUG W/WARNINGS",
-          "description": "A marketed drug with serious safety related warnings, precautions, adverse events, or restrictions on dose/populations.",
-          "isInverted": null,
-          "weight": null,
-          "id": "395f32b5-e991-4ad0-a4f0-5e58a9d2d1ce",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "dde1b063-65e5-42f0-8b2c-45c6939d3113",
-          "answer": "CHRONIC EFFICACY",
-          "description": "Inhibitors which showed no toxicity in chronic efficacy studies have been identified.",
-          "isInverted": null,
-          "weight": null,
-          "id": "6581d0cc-ef8d-41c0-bcf1-1ec1b920374b",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "dde1b063-65e5-42f0-8b2c-45c6939d3113",
-          "answer": "CLINICAL",
-          "description": "Drugs which showed no toxicity in clinical studies have been identified.",
-          "isInverted": null,
-          "weight": null,
-          "id": "a281b19e-b4c1-4820-b2ac-88a3a5060d25",
+          "weight": 0,
+          "id": "q7p6o5n4-m3l2-k1j0-i9h8-g7f6e5d4c3b2",
           "isArchived": false,
           "isDeleted": false
         }
       ],
-      "id": "dde1b063-65e5-42f0-8b2c-45c6939d3113",
+      "id": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r5s6",
+      "isArchived": false,
+      "isDeleted": false
+    },
+    {
+      "identification": "6D5B",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(d) Safety Considerations",
+      "questionBody": "Have inhibitors been identified that do not inhibit hERG or other human cardiac ion channels?",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+        {
+          "questionId": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "q7p6o5n4-m3l2-k1j0-i9h8-g7f6e5d4c3b2",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r5s6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+          "answer": "UNKNOWN",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "t6s5r4q3-p2o1-n0m9-l8k7-j6i5h4g3f2e1",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+      "isArchived": false,
+      "isDeleted": false    
+    },
+    {
+      "identification": "6D5C",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(d) Safety Considerations",
+      "questionBody": "Have inhibitors been identified that do not have in vitro genotox flags?",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+        {
+          "questionId": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "u6t5s4r3-q2p1-o0n9-m8l7-k6j5i4h3g2f1",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
+          "answer": "UNKNOWN",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "q7p6o5n4-m3l2-k1j0-i9h8-g7f6e5d4c3b2",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
+      "isArchived": false,
+      "isDeleted": false
+    },
+    {
+      "identification": "6D5D",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(d) Safety Considerations",
+      "questionBody": "Have inhibitors been identified that do not have AMES assay flags?",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+        {
+          "questionId": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+          "answer": "UNKNOWN",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "u6t5s4r3-q2p1-o0n9-m8l7-k6j5i4h3g2f1",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+      "isArchived": false,
+      "isDeleted": false
+    },
+    {
+      "identification": "6D5E",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(d) Safety Considerations",
+      "questionBody": "Have inhibitors been identified that do not have micronucleus assay flags?",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "UNKNOWN",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+      "isArchived": false,
+      "isDeleted": false
+    },
+    {
+      "identification": "6D5F",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(d) Safety Considerations",
+      "questionBody": "Have inhibitors been identified that that were tolerable in an efficacy or pharmacokinetic animal study?",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "UNKNOWN",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+      "isArchived": false,
+      "isDeleted": false
+    },
+    {
+      "identification": "6D5G",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(d) Safety Considerations",
+      "questionBody": "Have inhibitors been identified that did not have significant findings in a rodent toxicology study?",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "UNKNOWN",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+      "isArchived": false,
+      "isDeleted": false
+    },
+    {
+      "identification": "6D5H",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(d) Safety Considerations",
+      "questionBody": "Have inhibitors been identified that did not have significant findings in a non-rodent toxicology study?",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6", 
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "UNKNOWN",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+      "isArchived": false,
+      "isDeleted": false
+    },
+    {
+      "identification": "6D5I",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(d) Safety Considerations",
+      "questionBody": "Have inhibitors been identified that did not have significant findings in a phase 1 clinical trial?",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "UNKNOWN",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+      "isArchived": false,
+      "isDeleted": false
+    },
+    {
+      "identification": "6D5J",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(d) Safety Considerations",
+      "questionBody": "Have inhibitors been identified that did not have significant findings in a phase 2 clinical trial?",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "UNKNOWN",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+      "isArchived": false,
+      "isDeleted": false
+    },
+    {
+      "identification": "6D5K",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(d) Safety Considerations",
+      "questionBody": "Have inhibitors been identified that did not have significant findings in a phase 3 clinical trial?",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "UNKNOWN",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+      "isArchived": false,
+      "isDeleted": false
+    },
+    {
+      "identification": "6D5L",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(d) Safety Considerations",
+      "questionBody": "Are drugs that inhibit this target known that do not have serious warnings or contraindications in their prescribing information?",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "UNKNOWN",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
       "isArchived": false,
       "isDeleted": false
     }
-  ],
-  "id": "adeb1032-fa87-4c5f-9a1d-be4a83bfcdeb",
-  "isArchived": false,
-  "isDeleted": false,
-  "lastModifiedById": "6206af6d-124a-46d4-a261-b3d529e443be",
-  "dateModified": "2025-05-27T18:36:59.468Z",
-  "isModified": true
+  ]
 }
