@@ -3108,6 +3108,54 @@
       "isDeleted": false
     },
     {
+      "identification": "6D3",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(d) Safety Considerations",
+      "questionBody": "Have non-toxic inhibitors to this target have been identified?",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+        {
+          "questionId": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
+          "answer": "NO",
+          "description": "The human ortholog is not essential in a relevant cell line or animal model.",
+          "isInverted": null,
+          "weight": 0,
+          "id": "e95b2f63-e718-4639-82bd-59785a9bf639",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
+          "answer": "UNKNOWN",
+          "description": "It is unknown whether the human ortholog is essential in a relevant cell line or animal model.",
+          "isInverted": null,
+          "weight": 0,
+          "id": "792f1791-6bb3-49f8-817e-d160c29aedda",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
+          "answer": "YES",
+          "description": "The human ortholog is essential in a relevant cell line or animal model.",
+          "isInverted": null,
+          "weight": 1,
+          "id": "0c09ed96-7bfd-4fed-9e91-e3ded2d242ba",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
+      "isArchived": false,
+      "isDeleted": false
+    },
+    {
       "identification": "6D4",
       "module": "TargetPromotionQuestions",
       "section": "Section 6: Likelihood of identifying and inhibitor/activator",
@@ -3295,7 +3343,7 @@
           "isDeleted": false
         }
       ],
-      "id": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
+      "id": "767a52bf-e8b6-40c5-8ff2-cb7930dc9af0",
       "isArchived": false,
       "isDeleted": false
     },
