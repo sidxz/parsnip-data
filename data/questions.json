@@ -2642,6 +2642,56 @@
       "isDeleted": false
     },
     {
+      "identification": "6C1",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(c) Progressibility of compounds",
+      "sectionDescription": "",
+      "questionBody": "Are Mtb strains that can confirm on target activity are available?",
+      "toolTip": "",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+        {
+          "questionId": "6c7d8e9f-0a1b-2c3d-4e5f-6g7h8i9j0k1l",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "1m2n3o4p-5q6r-7s8t-9u0v-w1x2y3z4a5b6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "6c7d8e9f-0a1b-2c3d-4e5f-6g7h8i9j0k1l",
+          "answer": "UNKNOWN",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "c7d8e9f0-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "6c7d8e9f-0a1b-2c3d-4e5f-6g7h8i9j0k1l",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "m3n4o5p6-q7r8-s9t0-u1v2-w3x4y5z6a7b8",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "6c7d8e9f-0a1b-2c3d-4e5f-6g7h8i9j0k1l",
+      "isArchived": false,
+      "isDeleted": false
+    },
+    {
       "identification": "6C6",
       "module": "TargetPromotionQuestions",
       "section": "Section 6: Likelihood of identifying and inhibitor/activator",

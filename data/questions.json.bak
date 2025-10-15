@@ -28,21 +28,21 @@
         },
         {
           "questionId": "423ee452-bc62-4aad-a97b-546bc91e4afe",
-          "answer": "YES",
-          "description": "An approved drug that engages this target and has shown to be part of a sterilizing regimen.",
-          "isInverted": null,
-          "weight": 49.5,
-          "id": "fb941679-d919-495e-a3c8-5b4b48567103",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "423ee452-bc62-4aad-a97b-546bc91e4afe",
           "answer": "UNKNOWN",
           "description": "No drug or candidate that engages the target has progressed to a level of clinical evaluation that could demonstrate a contribution to a durable cure.  Alternatively, a clinical trial was inconclusive.",
           "isInverted": null,
           "weight": 0.5,
           "id": "3370b2b4-5a8c-401d-a99f-fe651812fed2",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "423ee452-bc62-4aad-a97b-546bc91e4afe",
+          "answer": "YES",
+          "description": "An approved drug that engages this target and has shown to be part of a sterilizing regimen.",
+          "isInverted": null,
+          "weight": 49.5,
+          "id": "fb941679-d919-495e-a3c8-5b4b48567103",
           "isArchived": false,
           "isDeleted": false
         }
@@ -66,6 +66,16 @@
       "possibleAnswers": [
         {
           "questionId": "aa1bfac1-ad46-4c18-828a-c7b9bc504a91",
+          "answer": "NO",
+          "description": "A drug that engages the target was shown to be inactive in an EBA study as determined by the clinical team.",
+          "isInverted": null,
+          "weight": 0,
+          "id": "ab0f63c5-18da-45dc-ac76-c1fab3660e5f",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "aa1bfac1-ad46-4c18-828a-c7b9bc504a91",
           "answer": "UNKNOWN",
           "description": "No drug that engages the target has progressed to a Phase 2 EBA study.  Alternatively, the level of target engagement for a particular drug that has progressed to an EBA study is uncertain.",
           "isInverted": null,
@@ -81,16 +91,6 @@
           "isInverted": null,
           "weight": 0,
           "id": "eb7d1448-c5e5-4eb7-95cd-559afe135d23",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "aa1bfac1-ad46-4c18-828a-c7b9bc504a91",
-          "answer": "NO",
-          "description": "A drug that engages the target was shown to be inactive in an EBA study as determined by the clinical team.",
-          "isInverted": null,
-          "weight": 0,
-          "id": "ab0f63c5-18da-45dc-ac76-c1fab3660e5f",
           "isArchived": false,
           "isDeleted": false
         }
@@ -162,16 +162,6 @@
       "possibleAnswers": [
         {
           "questionId": "0402e931-370a-4ca4-bfb7-f53c0868801a",
-          "answer": "UNKNOWN",
-          "description": "No compound that engages the target has progressed to a C57BL/6 or BALB/c-Acute infection efficacy study.  Alternatively, the level of target engagement for a particular compound that has progressed to a C57BL/6 or BALB/c-Acute infection efficacy study is uncertain.",
-          "isInverted": null,
-          "weight": 0.11,
-          "id": "185eb3d4-a248-49f9-b8b0-9e594aa6184c",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "0402e931-370a-4ca4-bfb7-f53c0868801a",
           "answer": "ACTIVE",
           "description": "A compound that engages the target was shown to be active in a C57BL/6 or BALB/c-Acute infection efficacy study.",
           "isInverted": null,
@@ -187,6 +177,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "1a81d93c-9e3d-42dc-80c4-26551505c592",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "0402e931-370a-4ca4-bfb7-f53c0868801a",
+          "answer": "UNKNOWN",
+          "description": "No compound that engages the target has progressed to a C57BL/6 or BALB/c-Acute infection efficacy study.  Alternatively, the level of target engagement for a particular compound that has progressed to a C57BL/6 or BALB/c-Acute infection efficacy study is uncertain.",
+          "isInverted": null,
+          "weight": 0.11,
+          "id": "185eb3d4-a248-49f9-b8b0-9e594aa6184c",
           "isArchived": false,
           "isDeleted": false
         }
@@ -210,21 +210,21 @@
       "possibleAnswers": [
         {
           "questionId": "1948372c-7472-46ed-a8bb-4142ac5f3ca0",
-          "answer": "INACTIVE",
-          "description": "A compound that engages the target was shown to be inactive in a C57BL/6 or BALB/c-Chronic infection efficacy study.",
-          "isInverted": null,
-          "weight": 0,
-          "id": "ba93424e-9173-42d0-b755-6ec14e3d2b40",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "1948372c-7472-46ed-a8bb-4142ac5f3ca0",
           "answer": "ACTIVE",
           "description": "A compound that engages the target was shown to be active in a C57BL/6 or BALB/c-Chronic infection efficacy study.",
           "isInverted": null,
           "weight": 10.89,
           "id": "9975cd3a-4a48-429f-b6bb-ba43bdba48d4",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "1948372c-7472-46ed-a8bb-4142ac5f3ca0",
+          "answer": "INACTIVE",
+          "description": "A compound that engages the target was shown to be inactive in a C57BL/6 or BALB/c-Chronic infection efficacy study.",
+          "isInverted": null,
+          "weight": 0,
+          "id": "ba93424e-9173-42d0-b755-6ec14e3d2b40",
           "isArchived": false,
           "isDeleted": false
         },
@@ -258,11 +258,11 @@
       "possibleAnswers": [
         {
           "questionId": "f397ac6f-1545-4986-b23e-d9bb968482e0",
-          "answer": "UNKNOWN",
-          "description": "No compound that engages the target has been tested in a macrophage assay.  Alternatively, the level of target engagement for a particular compound that has been tested in a macrophage assay is uncertain.",
+          "answer": "ACTIVE",
+          "description": "A compound that engages the target was shown to be active in a macrophage assay.",
           "isInverted": null,
-          "weight": 0.02,
-          "id": "fc6c7f55-b532-412d-ad3c-660804f2d912",
+          "weight": 1.98,
+          "id": "f437a533-d6d0-46da-bf02-7b6f4f60fc94",
           "isArchived": false,
           "isDeleted": false
         },
@@ -278,11 +278,11 @@
         },
         {
           "questionId": "f397ac6f-1545-4986-b23e-d9bb968482e0",
-          "answer": "ACTIVE",
-          "description": "A compound that engages the target was shown to be active in a macrophage assay.",
+          "answer": "UNKNOWN",
+          "description": "No compound that engages the target has been tested in a macrophage assay.  Alternatively, the level of target engagement for a particular compound that has been tested in a macrophage assay is uncertain.",
           "isInverted": null,
-          "weight": 1.98,
-          "id": "f437a533-d6d0-46da-bf02-7b6f4f60fc94",
+          "weight": 0.02,
+          "id": "fc6c7f55-b532-412d-ad3c-660804f2d912",
           "isArchived": false,
           "isDeleted": false
         }
@@ -364,21 +364,21 @@
         },
         {
           "questionId": "15359627-6fb8-440d-b29e-197637294eae",
-          "answer": "UNKNOWN",
-          "description": "No compound that engages the target has been tested in an Mtb assay using a gluconeogenic carbon source.  Alternatively, the level of target engagement for a particular compound that has been tested in an Mtb assay using a gluconeogenic carbon source is uncertain. Please describe conditions.",
-          "isInverted": null,
-          "weight": 0.25,
-          "id": "d6dd9139-e941-4374-9f39-08581834a624",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "15359627-6fb8-440d-b29e-197637294eae",
           "answer": "INACTIVE",
           "description": "A compound that engages the target was shown to be inactive in an Mtb assay using a gluconeogenic carbon source. Please describe conditions.",
           "isInverted": null,
           "weight": 0,
           "id": "201e6768-7e15-4ee0-a72b-8fe2e9869a64",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "15359627-6fb8-440d-b29e-197637294eae",
+          "answer": "UNKNOWN",
+          "description": "No compound that engages the target has been tested in an Mtb assay using a gluconeogenic carbon source.  Alternatively, the level of target engagement for a particular compound that has been tested in an Mtb assay using a gluconeogenic carbon source is uncertain. Please describe conditions.",
+          "isInverted": null,
+          "weight": 0.25,
+          "id": "d6dd9139-e941-4374-9f39-08581834a624",
           "isArchived": false,
           "isDeleted": false
         }
@@ -402,21 +402,21 @@
       "possibleAnswers": [
         {
           "questionId": "ea2e3433-3625-4b53-a520-aee92ccfcc0c",
-          "answer": "INACTIVE",
-          "description": "A compound that engages the target was shown to be inactive in an Mtb assay under other conditions. Please describe conditions.",
-          "isInverted": null,
-          "weight": 0,
-          "id": "4a1856bf-3532-4802-a311-0c4890910d92",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "ea2e3433-3625-4b53-a520-aee92ccfcc0c",
           "answer": "ACTIVE",
           "description": "A compound that engages the target was shown to be active in an Mtb assay under other conditions.  Please describe conditions.",
           "isInverted": null,
           "weight": 24.75,
           "id": "d5c9a1cd-c15a-4a1f-8ef0-8b736dacf442",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "ea2e3433-3625-4b53-a520-aee92ccfcc0c",
+          "answer": "INACTIVE",
+          "description": "A compound that engages the target was shown to be inactive in an Mtb assay under other conditions. Please describe conditions.",
+          "isInverted": null,
+          "weight": 0,
+          "id": "4a1856bf-3532-4802-a311-0c4890910d92",
           "isArchived": false,
           "isDeleted": false
         },
@@ -450,16 +450,6 @@
       "possibleAnswers": [
         {
           "questionId": "49488323-7b56-4562-aa09-7fc1e607d815",
-          "answer": "UNKNOWN",
-          "description": "No compound that engages the target has been tested in an Mtb assay in caseum or caseum surrogate.  Alternatively, the level of target engagement for a particular compound that has been tested in an Mtb assay in caseum is uncertain.  Please describe conditions.",
-          "isInverted": null,
-          "weight": 0.9,
-          "id": "64339af1-c124-4a1b-9a05-68b7ccdc4fbf",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "49488323-7b56-4562-aa09-7fc1e607d815",
           "answer": "ACTIVE",
           "description": "A compound that engages the target was shown to be active in an Mtb assay in caseum or caseum surrogate. Please describe conditions.",
           "isInverted": null,
@@ -475,6 +465,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "3cefb3fe-1136-4ca9-b4ef-c09b8ad30027",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "49488323-7b56-4562-aa09-7fc1e607d815",
+          "answer": "UNKNOWN",
+          "description": "No compound that engages the target has been tested in an Mtb assay in caseum or caseum surrogate.  Alternatively, the level of target engagement for a particular compound that has been tested in an Mtb assay in caseum is uncertain.  Please describe conditions.",
+          "isInverted": null,
+          "weight": 0.9,
+          "id": "64339af1-c124-4a1b-9a05-68b7ccdc4fbf",
           "isArchived": false,
           "isDeleted": false
         }
@@ -498,16 +498,6 @@
       "possibleAnswers": [
         {
           "questionId": "0171f15f-5ae9-4689-a7b8-5316dae3a668",
-          "answer": "UNKNOWN",
-          "description": "No compound that engages the target has been tested in an Mtb assay under other NR conditions.  Alternatively, the level of target engagement for a particular compound that has been tested in an Mtb assay under other NR conditions is uncertain.  Please describe conditions.",
-          "isInverted": null,
-          "weight": 0.1,
-          "id": "d65c28dc-7711-4058-83b4-fb9180e5e149",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "0171f15f-5ae9-4689-a7b8-5316dae3a668",
           "answer": "ACTIVE",
           "description": "A compound that engages the target was shown to be active in an Mtb assay under other NR conditions.  Please describe conditions.",
           "isInverted": null,
@@ -523,6 +513,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "092842fa-1420-4182-8b76-435dee5877d8",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "0171f15f-5ae9-4689-a7b8-5316dae3a668",
+          "answer": "UNKNOWN",
+          "description": "No compound that engages the target has been tested in an Mtb assay under other NR conditions.  Alternatively, the level of target engagement for a particular compound that has been tested in an Mtb assay under other NR conditions is uncertain.  Please describe conditions.",
+          "isInverted": null,
+          "weight": 0.1,
+          "id": "d65c28dc-7711-4058-83b4-fb9180e5e149",
           "isArchived": false,
           "isDeleted": false
         }
@@ -546,16 +546,6 @@
       "possibleAnswers": [
         {
           "questionId": "9922d62f-2882-4a7e-aad0-3699c6fe35f5",
-          "answer": "YES",
-          "description": "Compounds show differential activity between wild type and bacteria with mutations in the target.",
-          "isInverted": null,
-          "weight": 16.5,
-          "id": "ed38fc6a-94fc-4351-9431-61ef6a72d9a2",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "9922d62f-2882-4a7e-aad0-3699c6fe35f5",
           "answer": "NO",
           "description": "Compounds do not show differential activity between wild type and bacteria with mutations in the target.",
           "isInverted": null,
@@ -571,6 +561,16 @@
           "isInverted": null,
           "weight": 0.2,
           "id": "4ad7aefd-8a8a-469e-a295-eb90bcac315e",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "9922d62f-2882-4a7e-aad0-3699c6fe35f5",
+          "answer": "YES",
+          "description": "Compounds show differential activity between wild type and bacteria with mutations in the target.",
+          "isInverted": null,
+          "weight": 16.5,
+          "id": "ed38fc6a-94fc-4351-9431-61ef6a72d9a2",
           "isArchived": false,
           "isDeleted": false
         }
@@ -594,6 +594,16 @@
       "possibleAnswers": [
         {
           "questionId": "0014c1e6-0741-470a-8043-810ae0e9928c",
+          "answer": "NO",
+          "description": "Compounds do not show differential activity between wild type and bacteria that overexpress the target.",
+          "isInverted": null,
+          "weight": 0,
+          "id": "17a4e1ac-5e68-4282-8311-a6c957c80d6e",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "0014c1e6-0741-470a-8043-810ae0e9928c",
           "answer": "UNKNOWN",
           "description": "Testing compounds on bacteria that over express the target has not been undertaken.  Alternatively, overexpression studies on compounds that are thought to engage the target are inconclusive.",
           "isInverted": null,
@@ -609,16 +619,6 @@
           "isInverted": null,
           "weight": 16.5,
           "id": "60383858-ad0b-4dce-9b82-704c97b55dba",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "0014c1e6-0741-470a-8043-810ae0e9928c",
-          "answer": "NO",
-          "description": "Compounds do not show differential activity between wild type and bacteria that overexpress the target.",
-          "isInverted": null,
-          "weight": 0,
-          "id": "17a4e1ac-5e68-4282-8311-a6c957c80d6e",
           "isArchived": false,
           "isDeleted": false
         }
@@ -642,21 +642,21 @@
       "possibleAnswers": [
         {
           "questionId": "51b0e63b-7dda-4dd2-becd-ef1d0b60e1e4",
-          "answer": "UNKNOWN",
-          "description": "Testing compounds on bacteria that under express the target has not been undertaken.  Alternatively, underexpression studies on compounds that are thought to engage the target are inconclusive.",
-          "isInverted": null,
-          "weight": 0.2,
-          "id": "c55a740e-3889-4f04-9d1c-23fd479bd4ff",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "51b0e63b-7dda-4dd2-becd-ef1d0b60e1e4",
           "answer": "NO",
           "description": "Compounds do not show differential activity between wild type and bacteria that underexpress the target.",
           "isInverted": null,
           "weight": 0,
           "id": "ba10577a-00a9-40a7-8f5c-8bf35ab84c40",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "51b0e63b-7dda-4dd2-becd-ef1d0b60e1e4",
+          "answer": "UNKNOWN",
+          "description": "Testing compounds on bacteria that under express the target has not been undertaken.  Alternatively, underexpression studies on compounds that are thought to engage the target are inconclusive.",
+          "isInverted": null,
+          "weight": 0.2,
+          "id": "c55a740e-3889-4f04-9d1c-23fd479bd4ff",
           "isArchived": false,
           "isDeleted": false
         },
@@ -690,11 +690,11 @@
       "possibleAnswers": [
         {
           "questionId": "d2eae599-1b33-429a-92e7-506cd38a1f1a",
-          "answer": "YES",
-          "description": "Compounds have an impact on the pathway that the target of interest is part of. Please describe studies that were undertaken.",
+          "answer": "NO",
+          "description": "Compounds do not have an impact on the pathway that the target of interest is part of. Please describe studies that were undertaken.",
           "isInverted": null,
-          "weight": 16.5,
-          "id": "defc7477-4085-4c24-9d81-de7fa637e1d8",
+          "weight": 0,
+          "id": "78693ade-9480-4dd5-b69b-d67ace54efa7",
           "isArchived": false,
           "isDeleted": false
         },
@@ -710,11 +710,11 @@
         },
         {
           "questionId": "d2eae599-1b33-429a-92e7-506cd38a1f1a",
-          "answer": "NO",
-          "description": "Compounds do not have an impact on the pathway that the target of interest is part of. Please describe studies that were undertaken.",
+          "answer": "YES",
+          "description": "Compounds have an impact on the pathway that the target of interest is part of. Please describe studies that were undertaken.",
           "isInverted": null,
-          "weight": 0,
-          "id": "78693ade-9480-4dd5-b69b-d67ace54efa7",
+          "weight": 16.5,
+          "id": "defc7477-4085-4c24-9d81-de7fa637e1d8",
           "isArchived": false,
           "isDeleted": false
         }
@@ -786,16 +786,6 @@
       "possibleAnswers": [
         {
           "questionId": "925b0c93-cb75-4770-a0d7-3ef06985934d",
-          "answer": "YES",
-          "description": "Compounds inhibit purified target. Please describe assay.",
-          "isInverted": null,
-          "weight": 16.5,
-          "id": "1a999236-19b5-4757-a0a5-79b4ae09912b",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "925b0c93-cb75-4770-a0d7-3ef06985934d",
           "answer": "NO",
           "description": "Compounds do not inhibit purified target. Please describe assay.",
           "isInverted": null,
@@ -811,6 +801,16 @@
           "isInverted": null,
           "weight": 0.2,
           "id": "958b7b76-1e99-453e-99df-fad707a4d960",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "925b0c93-cb75-4770-a0d7-3ef06985934d",
+          "answer": "YES",
+          "description": "Compounds inhibit purified target. Please describe assay.",
+          "isInverted": null,
+          "weight": 16.5,
+          "id": "1a999236-19b5-4757-a0a5-79b4ae09912b",
           "isArchived": false,
           "isDeleted": false
         }
@@ -834,16 +834,6 @@
       "possibleAnswers": [
         {
           "questionId": "48abcbe6-14bf-4580-ab50-40e9dd68f542",
-          "answer": "UNKNOWN",
-          "description": "Genetically modified bacteria have not been tested in a C57BL/6 or BALB/c-Acute efficacy study.  Alternatively, the outcome from genetically modified bacteria in an acute C57BL/6 or BALB/c mouse study was inconclusive.",
-          "isInverted": null,
-          "weight": 0.5,
-          "id": "0960be4f-f219-4abb-9fed-9c581a1636a4",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "48abcbe6-14bf-4580-ab50-40e9dd68f542",
           "answer": "ACTIVE",
           "description": "There was a significant impact on the course of the infection in a C57BL/6 or BALB/c-Acute study with genetically modified bacteria.",
           "isInverted": null,
@@ -859,6 +849,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "4be8c3b0-2e90-4d46-80fb-b5574b766b7b",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "48abcbe6-14bf-4580-ab50-40e9dd68f542",
+          "answer": "UNKNOWN",
+          "description": "Genetically modified bacteria have not been tested in a C57BL/6 or BALB/c-Acute efficacy study.  Alternatively, the outcome from genetically modified bacteria in an acute C57BL/6 or BALB/c mouse study was inconclusive.",
+          "isInverted": null,
+          "weight": 0.5,
+          "id": "0960be4f-f219-4abb-9fed-9c581a1636a4",
           "isArchived": false,
           "isDeleted": false
         }
@@ -930,16 +930,6 @@
       "possibleAnswers": [
         {
           "questionId": "af7db7b4-0dfc-409e-8492-e229dc624bd5",
-          "answer": "UNKNOWN",
-          "description": "Genetically modified bacteria have not been tested in a macrophage study.  Alternatively, the outcome from a macrophage study using genetically modified bacteria was inconclusive.",
-          "isInverted": null,
-          "weight": 0,
-          "id": "3701124f-7ca0-4a8e-9275-531016cbe3f0",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "af7db7b4-0dfc-409e-8492-e229dc624bd5",
           "answer": "ACTIVE",
           "description": "Genetic inactivation of the target significantly reduced growth of Mtb (p-value < 0.05) in naïve macrophages and/or increased killing by activated macrophages (p-value < 0.05).",
           "isInverted": null,
@@ -955,6 +945,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "92fc940f-49e5-4b4e-90ea-b92032c3acd0",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "af7db7b4-0dfc-409e-8492-e229dc624bd5",
+          "answer": "UNKNOWN",
+          "description": "Genetically modified bacteria have not been tested in a macrophage study.  Alternatively, the outcome from a macrophage study using genetically modified bacteria was inconclusive.",
+          "isInverted": null,
+          "weight": 0,
+          "id": "3701124f-7ca0-4a8e-9275-531016cbe3f0",
           "isArchived": false,
           "isDeleted": false
         }
@@ -978,6 +978,16 @@
       "possibleAnswers": [
         {
           "questionId": "e493dd1c-cc96-47e4-8e75-983e224ac72f",
+          "answer": "ACTIVE",
+          "description": "There was a significant impact on the relative growth behavior of genetically modified bacteria tested in caseum surrogate.  Please describe assay.",
+          "isInverted": null,
+          "weight": 89.1,
+          "id": "5b5c73bd-7a65-4d39-a68c-cc785252c8f1",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "e493dd1c-cc96-47e4-8e75-983e224ac72f",
           "answer": "INACTIVE",
           "description": "There was not a significant impact on the relative growth behavior of genetically modified bacteria tested in caseum surrogate.  Please describe assay.",
           "isInverted": null,
@@ -993,16 +1003,6 @@
           "isInverted": null,
           "weight": 0.9,
           "id": "3fe00e55-ef75-4b26-8492-f2e8664f85ad",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "e493dd1c-cc96-47e4-8e75-983e224ac72f",
-          "answer": "ACTIVE",
-          "description": "There was a significant impact on the relative growth behavior of genetically modified bacteria tested in caseum surrogate.  Please describe assay.",
-          "isInverted": null,
-          "weight": 89.1,
-          "id": "5b5c73bd-7a65-4d39-a68c-cc785252c8f1",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1026,21 +1026,21 @@
       "possibleAnswers": [
         {
           "questionId": "cc8de94f-d4c8-4b56-a91f-d04926c6a15a",
-          "answer": "YES",
-          "description": "The possibility of neutralization of inhibition or inactivation by a supplement or specific media exists and has been demonstrated in vitro or in vivo. Please describe situation.",
-          "isInverted": null,
-          "weight": 1,
-          "id": "3106b75d-13c4-4695-a84d-b08de86a11ee",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "cc8de94f-d4c8-4b56-a91f-d04926c6a15a",
           "answer": "N/A",
           "description": "The possibility of neutralization of inhibition or inactivation by a supplement or specific media does not exist.",
           "isInverted": null,
           "weight": 1,
           "id": "8b84b337-9839-4e29-9126-0f2ff7148c53",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "cc8de94f-d4c8-4b56-a91f-d04926c6a15a",
+          "answer": "NO",
+          "description": "The possibility of neutralization of inhibition or inactivation by a supplement or specific media is theoretically possible but has been excluded experimentally.",
+          "isInverted": null,
+          "weight": 1,
+          "id": "213c353e-f7df-40f8-b8e6-f3b84daa9dce",
           "isArchived": false,
           "isDeleted": false
         },
@@ -1056,11 +1056,11 @@
         },
         {
           "questionId": "cc8de94f-d4c8-4b56-a91f-d04926c6a15a",
-          "answer": "NO",
-          "description": "The possibility of neutralization of inhibition or inactivation by a supplement or specific media is theoretically possible but has been excluded experimentally.",
+          "answer": "YES",
+          "description": "The possibility of neutralization of inhibition or inactivation by a supplement or specific media exists and has been demonstrated in vitro or in vivo. Please describe situation.",
           "isInverted": null,
           "weight": 1,
-          "id": "213c353e-f7df-40f8-b8e6-f3b84daa9dce",
+          "id": "3106b75d-13c4-4695-a84d-b08de86a11ee",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1086,16 +1086,6 @@
       "possibleAnswers": [
         {
           "questionId": "4e918e13-3418-4b85-923e-0ab347df3fef",
-          "answer": "YES",
-          "description": "If it is known that the concentration of supplement in human tissue is too low to neutralize inactivation of the target, please elaborate.",
-          "isInverted": null,
-          "weight": 1,
-          "id": "285abefa-1ad9-4943-8317-0840f7f09d69",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "4e918e13-3418-4b85-923e-0ab347df3fef",
           "answer": "NO",
           "description": "The possibility of neutralization of inhibition or inactivation by a supplement or specific media does not exist.  Alternatively, the possibility of inhibition or inactivation neutralization by a supplement or specific media exists but concentrations in human tissue are insufficient to accomplish this. Please describe situation.",
           "isInverted": null,
@@ -1111,6 +1101,16 @@
           "isInverted": null,
           "weight": 0.75,
           "id": "088b898f-0a73-4be6-981c-88d1f3bd0ba5",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "4e918e13-3418-4b85-923e-0ab347df3fef",
+          "answer": "YES",
+          "description": "If it is known that the concentration of supplement in human tissue is too low to neutralize inactivation of the target, please elaborate.",
+          "isInverted": null,
+          "weight": 1,
+          "id": "285abefa-1ad9-4943-8317-0840f7f09d69",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1184,6 +1184,16 @@
       "possibleAnswers": [
         {
           "questionId": "c401e18d-a457-4c9c-981a-0e79cb9e27e1",
+          "answer": "NO",
+          "description": "The protein has an active or allosteric site that is similar to the human ortholog.",
+          "isInverted": null,
+          "weight": 0.5,
+          "id": "d546d8c5-4bde-44ec-9e12-82bf469dcb39",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "c401e18d-a457-4c9c-981a-0e79cb9e27e1",
           "answer": "UNKNOWN",
           "description": "The submitter has insufficient knowledge on this question.",
           "isInverted": null,
@@ -1199,16 +1209,6 @@
           "isInverted": null,
           "weight": 1,
           "id": "aa5a236f-4d7f-4e53-bf8c-47b0293f3dcc",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "c401e18d-a457-4c9c-981a-0e79cb9e27e1",
-          "answer": "NO",
-          "description": "The protein has an active or allosteric site that is similar to the human ortholog.",
-          "isInverted": null,
-          "weight": 0.5,
-          "id": "d546d8c5-4bde-44ec-9e12-82bf469dcb39",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1232,21 +1232,21 @@
       "possibleAnswers": [
         {
           "questionId": "d61de17a-9ae9-4ad9-8694-fec0fe8ec88e",
-          "answer": "UNKNOWN",
-          "description": "The submitter has insufficient knowledge on this question or protein preparation on has not been attempted.",
-          "isInverted": null,
-          "weight": 0,
-          "id": "b6667118-1e97-4320-8220-e631cc1d08e6",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "d61de17a-9ae9-4ad9-8694-fec0fe8ec88e",
           "answer": "NO",
           "description": "Attempts to prepare the protein have been unsuccessful.",
           "isInverted": null,
           "weight": 0,
           "id": "1a8b6ecf-9185-4739-93a7-50a08ab1d5d8",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "d61de17a-9ae9-4ad9-8694-fec0fe8ec88e",
+          "answer": "UNKNOWN",
+          "description": "The submitter has insufficient knowledge on this question or protein preparation on has not been attempted.",
+          "isInverted": null,
+          "weight": 0,
+          "id": "b6667118-1e97-4320-8220-e631cc1d08e6",
           "isArchived": false,
           "isDeleted": false
         },
@@ -1280,11 +1280,11 @@
       "possibleAnswers": [
         {
           "questionId": "35cc2d49-99d0-4f5f-a727-b5d53516a26b",
-          "answer": "YES",
-          "description": "An assay for Mtb protein has been established.",
+          "answer": "NO",
+          "description": "An assay for Mtb protein has been attempted but has not been established.",
           "isInverted": null,
-          "weight": 2,
-          "id": "b4334e9e-5e27-4963-9f6e-d1383866c648",
+          "weight": 0,
+          "id": "f5a76724-b50a-4be6-b82c-88c2da82a21a",
           "isArchived": false,
           "isDeleted": false
         },
@@ -1300,11 +1300,11 @@
         },
         {
           "questionId": "35cc2d49-99d0-4f5f-a727-b5d53516a26b",
-          "answer": "NO",
-          "description": "An assay for Mtb protein has been attempted but has not been established.",
+          "answer": "YES",
+          "description": "An assay for Mtb protein has been established.",
           "isInverted": null,
-          "weight": 0,
-          "id": "f5a76724-b50a-4be6-b82c-88c2da82a21a",
+          "weight": 2,
+          "id": "b4334e9e-5e27-4963-9f6e-d1383866c648",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1328,21 +1328,21 @@
       "possibleAnswers": [
         {
           "questionId": "d2af875a-d73f-420e-9a3f-8a3bcc49c667",
-          "answer": "UNKNOWN",
-          "description": "The submitter has insufficient knowledge on this question.  Alternatively, an assay for this protein has not been attempted.",
-          "isInverted": null,
-          "weight": 0,
-          "id": "47a207d1-462a-46e1-8567-15119e5a2dae",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "d2af875a-d73f-420e-9a3f-8a3bcc49c667",
           "answer": "NO",
           "description": "An assay for an ortholog has been attempted but has not been established.  Please provide details.",
           "isInverted": null,
           "weight": 0,
           "id": "d70204f5-be44-4c49-a60a-21345dda0dba",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "d2af875a-d73f-420e-9a3f-8a3bcc49c667",
+          "answer": "UNKNOWN",
+          "description": "The submitter has insufficient knowledge on this question.  Alternatively, an assay for this protein has not been attempted.",
+          "isInverted": null,
+          "weight": 0,
+          "id": "47a207d1-462a-46e1-8567-15119e5a2dae",
           "isArchived": false,
           "isDeleted": false
         },
@@ -1424,6 +1424,16 @@
       "possibleAnswers": [
         {
           "questionId": "e0c572fc-9d15-4690-ad62-2760013761b7",
+          "answer": "NO",
+          "description": "Methods to prepare sufficient quantity of protein are not available.",
+          "isInverted": null,
+          "weight": 0,
+          "id": "0346d89f-b72a-40dd-b344-e40efdb04d51",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "e0c572fc-9d15-4690-ad62-2760013761b7",
           "answer": "UNKNOWN",
           "description": "The submitter has insufficient knowledge on this question.",
           "isInverted": null,
@@ -1439,16 +1449,6 @@
           "isInverted": null,
           "weight": 2,
           "id": "44baad41-4342-4084-8091-15ecd453fed2",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "e0c572fc-9d15-4690-ad62-2760013761b7",
-          "answer": "NO",
-          "description": "Methods to prepare sufficient quantity of protein are not available.",
-          "isInverted": null,
-          "weight": 0,
-          "id": "0346d89f-b72a-40dd-b344-e40efdb04d51",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1472,11 +1472,11 @@
       "possibleAnswers": [
         {
           "questionId": "49aadc56-3078-49a1-ac8a-33671ad5cc49",
-          "answer": "YES",
-          "description": "Assay type is a member of the following list.",
+          "answer": "NO",
+          "description": "Assay type is not a member of the following list.",
           "isInverted": null,
-          "weight": 2,
-          "id": "175714fa-a4b3-410e-b1e6-c5359fccd4bb",
+          "weight": 0,
+          "id": "0b012f5f-04cf-4468-8f66-062f51874069",
           "isArchived": false,
           "isDeleted": false
         },
@@ -1492,11 +1492,11 @@
         },
         {
           "questionId": "49aadc56-3078-49a1-ac8a-33671ad5cc49",
-          "answer": "NO",
-          "description": "Assay type is not a member of the following list.",
+          "answer": "YES",
+          "description": "Assay type is a member of the following list.",
           "isInverted": null,
-          "weight": 0,
-          "id": "0b012f5f-04cf-4468-8f66-062f51874069",
+          "weight": 2,
+          "id": "175714fa-a4b3-410e-b1e6-c5359fccd4bb",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1520,6 +1520,16 @@
       "possibleAnswers": [
         {
           "questionId": "0d493be4-7dd9-40bd-b683-929729fca7be",
+          "answer": "NO",
+          "description": "There are impediments.",
+          "isInverted": null,
+          "weight": 4,
+          "id": "7c0e7a9c-d840-4b9b-afb0-2207383c9556",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "0d493be4-7dd9-40bd-b683-929729fca7be",
           "answer": "UNKNOWN",
           "description": "The submitter has insufficient knowledge on this question.",
           "isInverted": null,
@@ -1535,16 +1545,6 @@
           "isInverted": null,
           "weight": -2,
           "id": "93d10d19-e13d-455b-ad9f-b32bcc83756e",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "0d493be4-7dd9-40bd-b683-929729fca7be",
-          "answer": "NO",
-          "description": "There are impediments.",
-          "isInverted": null,
-          "weight": 4,
-          "id": "7c0e7a9c-d840-4b9b-afb0-2207383c9556",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1580,21 +1580,21 @@
         },
         {
           "questionId": "7d864773-d8d9-4962-8763-ccdea030e6b7",
-          "answer": "YES",
-          "description": "A small scale screen has been performed.",
-          "isInverted": null,
-          "weight": 1,
-          "id": "3018a818-44bb-4359-9481-45ce5b5a05e5",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "7d864773-d8d9-4962-8763-ccdea030e6b7",
           "answer": "UNKNOWN",
           "description": "The submitter has insufficient knowledge on this question.  Alternatively, a small-scale screen for this protein has not been attempted.",
           "isInverted": null,
           "weight": 0,
           "id": "81735a9d-c6d8-4470-a25c-0710a624bd81",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "7d864773-d8d9-4962-8763-ccdea030e6b7",
+          "answer": "YES",
+          "description": "A small scale screen has been performed.",
+          "isInverted": null,
+          "weight": 1,
+          "id": "3018a818-44bb-4359-9481-45ce5b5a05e5",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1618,16 +1618,6 @@
       "possibleAnswers": [
         {
           "questionId": "84c83c3c-a14b-4111-89b8-c9a351b95dea",
-          "answer": "YES",
-          "description": "A large-scale16 screen has been performed. Please provide details.",
-          "isInverted": null,
-          "weight": 2,
-          "id": "f6f2014b-6650-448e-a4d1-7eacaa48b204",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "84c83c3c-a14b-4111-89b8-c9a351b95dea",
           "answer": "NO",
           "description": "Attempts to run a large-scale16 screen were unsuccessful. Please provide details.",
           "isInverted": null,
@@ -1643,6 +1633,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "8d84d49e-406a-4abd-8693-4894b15ff3f5",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "84c83c3c-a14b-4111-89b8-c9a351b95dea",
+          "answer": "YES",
+          "description": "A large-scale16 screen has been performed. Please provide details.",
+          "isInverted": null,
+          "weight": 2,
+          "id": "f6f2014b-6650-448e-a4d1-7eacaa48b204",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1666,16 +1666,6 @@
       "possibleAnswers": [
         {
           "questionId": "3190e9be-b0ab-4efb-bd79-4dc3892605ec",
-          "answer": "YES",
-          "description": "There have been multiple unsuccessful large-scale screens run against this target.",
-          "isInverted": null,
-          "weight": -4,
-          "id": "372aaff7-2c51-4575-bbf7-f71b66f36941",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "3190e9be-b0ab-4efb-bd79-4dc3892605ec",
           "answer": "NO",
           "description": "There have not been multiple unsuccessful large-scale screens run against this target.",
           "isInverted": null,
@@ -1691,6 +1681,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "2b0e191a-4910-4020-b262-0b9fc6e4bce0",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "3190e9be-b0ab-4efb-bd79-4dc3892605ec",
+          "answer": "YES",
+          "description": "There have been multiple unsuccessful large-scale screens run against this target.",
+          "isInverted": null,
+          "weight": -4,
+          "id": "372aaff7-2c51-4575-bbf7-f71b66f36941",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1716,6 +1716,16 @@
       "possibleAnswers": [
         {
           "questionId": "3d2ba995-e97e-4dac-9dd8-84d4e5de88ed",
+          "answer": "NO",
+          "description": "Compounds do not bind purified target. Please describe type of study.",
+          "isInverted": null,
+          "weight": 0,
+          "id": "40882978-8e77-4dd7-a36c-0fdf6938741d",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "3d2ba995-e97e-4dac-9dd8-84d4e5de88ed",
           "answer": "UNKNOWN",
           "description": "Binding studies have not been undertaken on compounds that are thought to engage1 the target.  Alternatively, binding studies on compounds that are thought to engage1 the target are inconclusive.  Please describe type of study.",
           "isInverted": null,
@@ -1731,16 +1741,6 @@
           "isInverted": null,
           "weight": 5,
           "id": "0f287415-56b7-4539-a06a-019eb37d263e",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "3d2ba995-e97e-4dac-9dd8-84d4e5de88ed",
-          "answer": "NO",
-          "description": "Compounds do not bind purified target. Please describe type of study.",
-          "isInverted": null,
-          "weight": 0,
-          "id": "40882978-8e77-4dd7-a36c-0fdf6938741d",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1764,16 +1764,6 @@
       "possibleAnswers": [
         {
           "questionId": "6d76648a-756e-4d0c-8751-a6be41c42e0a",
-          "answer": "YES",
-          "description": "A successful structure-based design effort has been performed.",
-          "isInverted": null,
-          "weight": 6,
-          "id": "35993d99-30a2-481f-8ca8-0e4d09fba898",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "6d76648a-756e-4d0c-8751-a6be41c42e0a",
           "answer": "NO",
           "description": "Attempts to perform structure-based design were unsuccessful.",
           "isInverted": null,
@@ -1789,6 +1779,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "2a196b80-687b-4587-8c64-c26953e82aaf",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "6d76648a-756e-4d0c-8751-a6be41c42e0a",
+          "answer": "YES",
+          "description": "A successful structure-based design effort has been performed.",
+          "isInverted": null,
+          "weight": 6,
+          "id": "35993d99-30a2-481f-8ca8-0e4d09fba898",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1812,16 +1812,6 @@
       "possibleAnswers": [
         {
           "questionId": "626cb147-8cf5-494b-a23e-b08e85c7eec7",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 2,
-          "id": "5ec26d70-dbef-4e0f-be01-c8682bad0a3b",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "626cb147-8cf5-494b-a23e-b08e85c7eec7",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -1837,6 +1827,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "6cce8f65-28a2-4037-9d1d-3416cb62bd5f",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "626cb147-8cf5-494b-a23e-b08e85c7eec7",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 2,
+          "id": "5ec26d70-dbef-4e0f-be01-c8682bad0a3b",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1860,16 +1860,6 @@
       "possibleAnswers": [
         {
           "questionId": "f1e2e3e4-3c7b-4d0e-8f3a-2c3e5f6a7b8c",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "c8f8e8d8-9f9f-4f4f-8f8f-7e7e6e6e6e6e",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "f1e2e3e4-3c7b-4d0e-8f3a-2c3e5f6a7b8c",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -1885,6 +1875,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "a6a6a6a6-7d7d-4c4c-a4a4-5b5b4b4b4b4b",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "f1e2e3e4-3c7b-4d0e-8f3a-2c3e5f6a7b8c",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "c8f8e8d8-9f9f-4f4f-8f8f-7e7e6e6e6e6e",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1908,16 +1908,6 @@
       "possibleAnswers": [
         {
           "questionId": "d2c3b4a5-6e7f-8g9h-0i1j-2k3l4m5n6o7p",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 2,
-          "id": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "d2c3b4a5-6e7f-8g9h-0i1j-2k3l4m5n6o7p",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -1933,6 +1923,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "g9h0i1j2-k3l4-m5n6-o7p8-q9r0s1t2u3v4",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "d2c3b4a5-6e7f-8g9h-0i1j-2k3l4m5n6o7p",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 2,
+          "id": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
           "isArchived": false,
           "isDeleted": false
         }
@@ -1956,16 +1956,6 @@
       "possibleAnswers": [
         {
           "questionId": "c1e2f3a4-b5c6-d7e8-f9g0-h1i2j3k4l5m6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 2,
-          "id": "n7o8p9q0-r1s2-t3u4-v5w6-x7y8z9a0b1c2",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "c1e2f3a4-b5c6-d7e8-f9g0-h1i2j3k4l5m6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -1981,6 +1971,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "t9u0v1w2-x3y4-z5a6-b7c8-d9e0f1g2h3i4",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "c1e2f3a4-b5c6-d7e8-f9g0-h1i2j3k4l5m6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 2,
+          "id": "n7o8p9q0-r1s2-t3u4-v5w6-x7y8z9a0b1c2",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2004,16 +2004,6 @@
       "possibleAnswers": [
         {
           "questionId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "u1v2w3x4-y5z6-a7b8-c9d0-e1f2g3h4i5j6",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -2029,6 +2019,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "a3b4c5d6-e7f8-g9h0-i1j2-k3l4m5n6o7p8",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "u1v2w3x4-y5z6-a7b8-c9d0-e1f2g3h4i5j6",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2052,16 +2052,6 @@
       "possibleAnswers": [
         {
           "questionId": "f1g2h3i4-j5k6-l7m8-n9o0-p1q2r3s4t5u6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 2,
-          "id": "v7w8x9y0-z1a2-b3c4-d5e6-f7g8h9i0j1k2",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "f1g2h3i4-j5k6-l7m8-n9o0-p1q2r3s4t5u6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -2077,6 +2067,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "b9c0d1e2-f3g4-h5i6-j7k8-l9m0n1o2p3q4",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "f1g2h3i4-j5k6-l7m8-n9o0-p1q2r3s4t5u6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 2,
+          "id": "v7w8x9y0-z1a2-b3c4-d5e6-f7g8h9i0j1k2",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2102,16 +2102,6 @@
       "possibleAnswers": [
         {
           "questionId": "74b0d245-d2f8-467d-b677-f34b35dd5d9e",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 4,
-          "id": "c9759129-3010-415e-af05-874546cbb879",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "74b0d245-d2f8-467d-b677-f34b35dd5d9e",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -2127,6 +2117,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "b1f3c6e7-8d9a-4b0c-9e1f-2a3b4c5d6e7f",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "74b0d245-d2f8-467d-b677-f34b35dd5d9e",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 4,
+          "id": "c9759129-3010-415e-af05-874546cbb879",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2151,16 +2151,6 @@
       "possibleAnswers": [
         {
           "questionId": "d3e4f5a6-b7c8-9d0e-f1g2-h3i4j5k6l7m8",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "n8o9p0q1-r2s3-t4u5-v6w7-x8y9z0a1b2c3",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "d3e4f5a6-b7c8-9d0e-f1g2-h3i4j5k6l7m8",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -2176,6 +2166,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "d3e4f5a6-b7c8-9d0e-f1g2-h3i4j5k6l7m8",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "n8o9p0q1-r2s3-t4u5-v6w7-x8y9z0a1b2c3",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2200,16 +2200,6 @@
       "possibleAnswers": [
         {
           "questionId": "a1b2c3d4-e5f6-7g8h-9i0j-k1l2m3n4o5p6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "a1b2c3d4-e5f6-7g8h-9i0j-k1l2m3n4o5p6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -2225,6 +2215,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "w9x0y1z2-a3b4-c5d6-e7f8-g9h0i1j2k3l4",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "a1b2c3d4-e5f6-7g8h-9i0j-k1l2m3n4o5p6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2249,16 +2249,6 @@
       "possibleAnswers": [
         {
           "questionId": "m5n6o7p8-q9r0-s1t2-u3v4-w5x6y7z8a9b0",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "c1d2e3f4-g5h6-i7j8-k9l0-m1n2o3p4q5r6",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "m5n6o7p8-q9r0-s1t2-u3v4-w5x6y7z8a9b0",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -2274,6 +2264,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "i3j4k5l6-m7n8-o9p0-q1r2-s3t4u5v6w7x8",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "m5n6o7p8-q9r0-s1t2-u3v4-w5x6y7z8a9b0",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "c1d2e3f4-g5h6-i7j8-k9l0-m1n2o3p4q5r6",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2297,16 +2297,6 @@
       "possibleAnswers": [
         {
           "questionId": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "r7s8t9u0-v1w2-x3y4-z5a6-b7c8d9e0f1g2",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -2322,6 +2312,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "x9y0z1a2-b3c4-d5e6-f7g8-h9i0j1k2l3m4",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "r7s8t9u0-v1w2-x3y4-z5a6-b7c8d9e0f1g2",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2345,16 +2345,6 @@
       "possibleAnswers": [
         {
           "questionId": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "r9s0t1u2-v3w4-x5y6-z7a8-b9c0d1e2f3g4",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -2370,6 +2360,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "x1y2z3a4-b5c6-d7e8-f9g0-h1i2j3k4l5m6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "r9s0t1u2-v3w4-x5y6-z7a8-b9c0d1e2f3g4",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2393,16 +2393,6 @@
       "possibleAnswers": [
         {
           "questionId": "d5e6f7g8-h9i0-j1k2-l3m4-n5o6p7q8r9s0",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "t1u2v3w4-x5y6-z7a8-b9c0-d1e2f3g4h5i6",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "d5e6f7g8-h9i0-j1k2-l3m4-n5o6p7q8r9s0",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -2418,6 +2408,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "z3a4b5c6-d7e8-f9g0-h1i2-j3k4l5m6n7o8",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "d5e6f7g8-h9i0-j1k2-l3m4-n5o6p7q8r9s0",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "t1u2v3w4-x5y6-z7a8-b9c0-d1e2f3g4h5i6",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2441,16 +2441,6 @@
       "possibleAnswers": [
         {
           "questionId": "e7f8g9h0-i1j2-k3l4-m5n6-o7p8q9r0s1t2",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "u3v4w5x6-y7z8-a9b0-c1d2-e3f4g5h6i7j8",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "e7f8g9h0-i1j2-k3l4-m5n6-o7p8q9r0s1t2",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -2466,6 +2456,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "a5b6c7d8-e9f0-g1h2-i3j4-k5l6m7n8o9p0",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "e7f8g9h0-i1j2-k3l4-m5n6-o7p8q9r0s1t2",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "u3v4w5x6-y7z8-a9b0-c1d2-e3f4g5h6i7j8",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2489,16 +2489,6 @@
       "possibleAnswers": [
         {
           "questionId": "e7f8g9h0-i1j2-k3l4-m5n6-o7p8q9r0s1t2",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "274ea204-094c-473c-9812-6fe1eeee6929",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "e7f8g9h0-i1j2-k3l4-m5n6-o7p8q9r0s1t2",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -2514,6 +2504,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "4d464286-746a-4b2c-80d2-426faebd289b",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "e7f8g9h0-i1j2-k3l4-m5n6-o7p8q9r0s1t2",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "274ea204-094c-473c-9812-6fe1eeee6929",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2549,21 +2549,21 @@
         },
         {
           "questionId": "cae72771-039e-45e2-9d6f-1dd59e1a34fe",
-          "answer": "MEDIUM",
-          "description": "",
-          "isInverted": null,
-          "weight": 3,
-          "id": "ef7b5f19-d103-4e26-b9be-f6092521da36",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "cae72771-039e-45e2-9d6f-1dd59e1a34fe",
           "answer": "LOW",
           "description": "",
           "isInverted": null,
           "weight": 0,
           "id": "3fa54dab-f504-4b16-98fe-750b6bbe4e99",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "cae72771-039e-45e2-9d6f-1dd59e1a34fe",
+          "answer": "MEDIUM",
+          "description": "",
+          "isInverted": null,
+          "weight": 3,
+          "id": "ef7b5f19-d103-4e26-b9be-f6092521da36",
           "isArchived": false,
           "isDeleted": false
         },
@@ -2608,21 +2608,21 @@
         },
         {
           "questionId": "f1e2d3c4-b5a6-7980-1a2b-3c4d5e6f7g8h",
-          "answer": "MEDIUM",
-          "description": "",
-          "isInverted": null,
-          "weight": 3,
-          "id": "x5y6z7a8-b9c0-d1e2-f3g4-h5i6j7k8l9m0",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "f1e2d3c4-b5a6-7980-1a2b-3c4d5e6f7g8h",
           "answer": "LOW",
           "description": "",
           "isInverted": null,
           "weight": 0,
           "id": "n1o2p3q4-r5s6-t7u8-v9w0-x1y2z3a4b5c6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "f1e2d3c4-b5a6-7980-1a2b-3c4d5e6f7g8h",
+          "answer": "MEDIUM",
+          "description": "",
+          "isInverted": null,
+          "weight": 3,
+          "id": "x5y6z7a8-b9c0-d1e2-f3g4-h5i6j7k8l9m0",
           "isArchived": false,
           "isDeleted": false
         },
@@ -2642,6 +2642,56 @@
       "isDeleted": false
     },
     {
+      "identification": "6C1",
+      "module": "TargetPromotionQuestions",
+      "section": "Section 6: Likelihood of identifying and inhibitor/activator",
+      "subSection": "(c) Progressibility of compounds",
+      "sectionDescription": "",
+      "questionBody": "Are Mtb strains that can confirm on target activity are available?",
+      "toolTip": "",
+      "questionType": "MultipleChoice",
+      "isRequired": false,
+      "isInverted": false,
+      "isDisabled": false,
+      "weight": 0,
+      "isAdminOnly": false,
+      "possibleAnswers": [
+        {
+          "questionId": "6c7d8e9f-0a1b-2c3d-4e5f-6g7h8i9j0k1l",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "1m2n3o4p-5q6r-7s8t-9u0v-w1x2y3z4a5b6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "6c7d8e9f-0a1b-2c3d-4e5f-6g7h8i9j0k1l",
+          "answer": "UNKNOWN",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "c7d8e9f0-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "6c7d8e9f-0a1b-2c3d-4e5f-6g7h8i9j0k1l",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "m3n4o5p6-q7r8-s9t0-u1v2-w3x4y5z6a7b8",
+          "isArchived": false,
+          "isDeleted": false
+        }
+      ],
+      "id": "6c7d8e9f-0a1b-2c3d-4e5f-6g7h8i9j0k1l",
+      "isArchived": false,
+      "isDeleted": false
+    },
+    {
       "identification": "6C6",
       "module": "TargetPromotionQuestions",
       "section": "Section 6: Likelihood of identifying and inhibitor/activator",
@@ -2654,66 +2704,6 @@
       "weight": 0,
       "isAdminOnly": false,
       "possibleAnswers": [
-        {
-          "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
-          "answer": "NONE",
-          "description": "",
-          "isInverted": null,
-          "weight": 0,
-          "id": "f4c3b2a1-0e9d-8c7b-6a5f-4e3d2c1b0a9f",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
-          "answer": "SCREENING HIT",
-          "description": "",
-          "isInverted": null,
-          "weight": 3,
-          "id": "a11f93c7-f827-4da4-bc67-067cb492a1ca",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
-          "answer": "HA",
-          "description": "",
-          "isInverted": null,
-          "weight": 4,
-          "id": "db8d2961-62b0-4b97-b1db-3bacbb05113b",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
-          "answer": "H2L",
-          "description": "",
-          "isInverted": null,
-          "weight": 5,
-          "id": "b58eeb03-e0b1-4ffe-8d81-e5f63beee66b",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
-          "answer": "LO",
-          "description": "",
-          "isInverted": null,
-          "weight": 6,
-          "id": "883a18ad-617d-47d7-84a1-3e7b3ce8cbc6",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
-          "answer": "SP",
-          "description": "",
-          "isInverted": null,
-          "weight": 7,
-          "id": "437cb6d6-ae36-4939-bb75-5d0ea1ca0ba2",
-          "isArchived": false,
-          "isDeleted": false
-        },
         {
           "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
           "answer": "Candidate",
@@ -2741,6 +2731,66 @@
           "isInverted": null,
           "weight": 10,
           "id": "3f29d15b-1989-4751-a705-55c4f29aa948",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
+          "answer": "H2L",
+          "description": "",
+          "isInverted": null,
+          "weight": 5,
+          "id": "b58eeb03-e0b1-4ffe-8d81-e5f63beee66b",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
+          "answer": "HA",
+          "description": "",
+          "isInverted": null,
+          "weight": 4,
+          "id": "db8d2961-62b0-4b97-b1db-3bacbb05113b",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
+          "answer": "LO",
+          "description": "",
+          "isInverted": null,
+          "weight": 6,
+          "id": "883a18ad-617d-47d7-84a1-3e7b3ce8cbc6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
+          "answer": "NONE",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "f4c3b2a1-0e9d-8c7b-6a5f-4e3d2c1b0a9f",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
+          "answer": "SCREENING HIT",
+          "description": "",
+          "isInverted": null,
+          "weight": 3,
+          "id": "a11f93c7-f827-4da4-bc67-067cb492a1ca",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
+          "answer": "SP",
+          "description": "",
+          "isInverted": null,
+          "weight": 7,
+          "id": "437cb6d6-ae36-4939-bb75-5d0ea1ca0ba2",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2774,6 +2824,16 @@
         },
         {
           "questionId": "a9b8c7d6-e5f4-3210-9a8b-7c6d5e4f3g2h",
+          "answer": "NO",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "h9g8f7e6-d5c4-b3a2-1a0b-9c8d7e6f5g4h",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "a9b8c7d6-e5f4-3210-9a8b-7c6d5e4f3g2h",
           "answer": "PROBABLY",
           "description": "It is unknown whether the human ortholog is essential in a relevant cell line or animal model.",
           "isInverted": null,
@@ -2789,16 +2849,6 @@
           "isInverted": null,
           "weight": 1,
           "id": "5f4e3d2c-1b0a-9a8b-7c6d-5e4f3g2h1i0j",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "a9b8c7d6-e5f4-3210-9a8b-7c6d5e4f3g2h",
-          "answer": "NO",
-          "description": "",
-          "isInverted": null,
-          "weight": 0,
-          "id": "h9g8f7e6-d5c4-b3a2-1a0b-9c8d7e6f5g4h",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2822,16 +2872,6 @@
       "possibleAnswers": [
         {
           "questionId": "3c9e8f7a-6b5c-4d3e-2f1g-0h9i8j7k6l5m",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "54557550-deef-4ab8-b5f5-fca1d221148e",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "3c9e8f7a-6b5c-4d3e-2f1g-0h9i8j7k6l5m",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -2847,6 +2887,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "q1p2o3n4-m5l6-k7j8-i9h0-g1f2e3d4c5b6",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "3c9e8f7a-6b5c-4d3e-2f1g-0h9i8j7k6l5m",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "54557550-deef-4ab8-b5f5-fca1d221148e",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2870,16 +2920,6 @@
       "possibleAnswers": [
         {
           "questionId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 2,
-          "id": "x3y4z5a6-b7c8-d9e0-f1g2-h3i4j5k6l7m8",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -2895,6 +2935,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "3627a2c9-c866-4738-8b12-647f95bf1bf7",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 2,
+          "id": "x3y4z5a6-b7c8-d9e0-f1g2-h3i4j5k6l7m8",
           "isArchived": false,
           "isDeleted": false
         }
@@ -2928,21 +2978,21 @@
         },
         {
           "questionId": "9a8b7c6d-5e4f-3g2h-1i0j-9k8l7m6n5o4p",
-          "answer": "MEDIUM",
-          "description": "",
-          "isInverted": null,
-          "weight": 2,
-          "id": "3d55f99a-acb4-4040-95f4-9d332bc7e836",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "9a8b7c6d-5e4f-3g2h-1i0j-9k8l7m6n5o4p",
           "answer": "LOW",
           "description": "",
           "isInverted": null,
           "weight": 0,
           "id": "727727ca-e3c3-4c2a-9a46-72297454e9a8",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "9a8b7c6d-5e4f-3g2h-1i0j-9k8l7m6n5o4p",
+          "answer": "MEDIUM",
+          "description": "",
+          "isInverted": null,
+          "weight": 2,
+          "id": "3d55f99a-acb4-4040-95f4-9d332bc7e836",
           "isArchived": false,
           "isDeleted": false
         },
@@ -2976,16 +3026,6 @@
       "possibleAnswers": [
         {
           "questionId": "c3b2a1f0-e9d8-c7b6-a5f4-3e2d1c0b9a8f",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 0,
-          "id": "d09e8f7g-6h5i-4j3k-2l1m-0n9o8p7q6r5s",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "c3b2a1f0-e9d8-c7b6-a5f4-3e2d1c0b9a8f",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -3001,6 +3041,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "4p5o6n7m-8l9k-0j1i-2h3g-4f5e6d7c8b9a",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "c3b2a1f0-e9d8-c7b6-a5f4-3e2d1c0b9a8f",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 0,
+          "id": "d09e8f7g-6h5i-4j3k-2l1m-0n9o8p7q6r5s",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3024,16 +3074,6 @@
       "possibleAnswers": [
         {
           "questionId": "f520aa0f-3b03-4397-91d3-a22554b9da91",
-          "answer": "YES",
-          "description": "The consequence of inhibiting the human ortholog is significant.",
-          "isInverted": null,
-          "weight": 0,
-          "id": "042b689f-8f62-4254-9c02-8f2f9dec4ee6",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "f520aa0f-3b03-4397-91d3-a22554b9da91",
           "answer": "NO",
           "description": "The consequence of inhibiting the human ortholog is not significant.",
           "isInverted": null,
@@ -3049,6 +3089,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "df8ab74b-0ac3-4fb3-a344-49dce6697db3",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "f520aa0f-3b03-4397-91d3-a22554b9da91",
+          "answer": "YES",
+          "description": "The consequence of inhibiting the human ortholog is significant.",
+          "isInverted": null,
+          "weight": 0,
+          "id": "042b689f-8f62-4254-9c02-8f2f9dec4ee6",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3072,16 +3122,6 @@
       "possibleAnswers": [
         {
           "questionId": "51a7d00f-2d4b-4f7b-b659-06216c4035a2",
-          "answer": "YES",
-          "description": "Mtb strains which could be used to characterize compounds with broad spectrum activity are available.",
-          "isInverted": null,
-          "weight": 1,
-          "id": "9ebe4757-bdbb-431a-ae0d-56a857c88881",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "51a7d00f-2d4b-4f7b-b659-06216c4035a2",
           "answer": "NO",
           "description": "Mtb strains which could be used to characterize compounds with broad spectrum activity are not available.",
           "isInverted": null,
@@ -3097,6 +3137,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "1bd1459e-22e5-408e-8937-6c40e5432b37",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "51a7d00f-2d4b-4f7b-b659-06216c4035a2",
+          "answer": "YES",
+          "description": "Mtb strains which could be used to characterize compounds with broad spectrum activity are available.",
+          "isInverted": null,
+          "weight": 1,
+          "id": "9ebe4757-bdbb-431a-ae0d-56a857c88881",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3120,16 +3170,6 @@
       "possibleAnswers": [
         {
           "questionId": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r5s6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "t6s5r4q3-p2o1-n0m9-l8k7-j6i5h4g3f2e1",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r5s6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -3145,6 +3185,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "q7p6o5n4-m3l2-k1j0-i9h8-g7f6e5d4c3b2",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r5s6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "t6s5r4q3-p2o1-n0m9-l8k7-j6i5h4g3f2e1",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3168,16 +3218,6 @@
       "possibleAnswers": [
         {
           "questionId": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "82130355-fa70-4d15-ab9a-3e56d77fcbbf",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -3193,6 +3233,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "2d773153-91f8-42ae-80fb-6bcb1d4da33e",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "82130355-fa70-4d15-ab9a-3e56d77fcbbf",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3216,16 +3266,6 @@
       "possibleAnswers": [
         {
           "questionId": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "u6t5s4r3-q2p1-o0n9-m8l7-k6j5i4h3g2f1",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -3241,6 +3281,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "45d861c3-274b-4744-b1ea-830130c895fd",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "u6t5s4r3-q2p1-o0n9-m8l7-k6j5i4h3g2f1",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3264,16 +3314,6 @@
       "possibleAnswers": [
         {
           "questionId": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -3289,6 +3329,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "8f0bd402-f4a7-49c3-9153-71f4d5078978",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "r6q5p4o3-n2m1-l0k9-j8i7-h6g5f4e3d2c1",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3312,16 +3362,6 @@
       "possibleAnswers": [
         {
           "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -3337,6 +3377,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "a8082f78-48da-4fba-ad68-47195a83195b",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "w6v5u4t3-s2r1-q0p9-o8n7-m6l5k4j3i2h1",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3360,16 +3410,6 @@
       "possibleAnswers": [
         {
           "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "eb23af8a-ed3c-4be5-9907-55b75ff2cf59",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -3385,6 +3425,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "f6fd4447-50dc-4bb2-8295-41aab9357bf9",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "eb23af8a-ed3c-4be5-9907-55b75ff2cf59",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3408,16 +3458,6 @@
       "possibleAnswers": [
         {
           "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "2712a4de-98fd-40e2-b18b-9e4d05b5c1bd",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -3433,6 +3473,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "02c7c07f-bd5d-4714-bed4-cb747e6512b8",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "2712a4de-98fd-40e2-b18b-9e4d05b5c1bd",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3456,16 +3506,6 @@
       "possibleAnswers": [
         {
           "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "544f9db4-bd7d-497d-b17e-667164772f32",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -3481,6 +3521,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "5c1a31ee-ac18-4073-a46c-ec51225c71b4",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "544f9db4-bd7d-497d-b17e-667164772f32",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3504,16 +3554,6 @@
       "possibleAnswers": [
         {
           "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "2d368261-9f5e-4dda-8d34-e331b927431f",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -3529,6 +3569,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "2c857e1d-62f2-4e56-aa76-989cbc5c8060",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "2d368261-9f5e-4dda-8d34-e331b927431f",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3552,16 +3602,6 @@
       "possibleAnswers": [
         {
           "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "c60d59eb-4d57-4d43-af08-549078e078a8",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -3577,6 +3617,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "caa23586-4c16-41de-b03c-6b3fc7cc62f5",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "c60d59eb-4d57-4d43-af08-549078e078a8",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3600,16 +3650,6 @@
       "possibleAnswers": [
         {
           "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "560c234e-ae02-45b8-942c-9403e2d095b0",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -3625,6 +3665,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "b6ce5f5e-e3e0-4ae0-aef0-33f02d6aaad8",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "560c234e-ae02-45b8-942c-9403e2d095b0",
           "isArchived": false,
           "isDeleted": false
         }
@@ -3648,16 +3698,6 @@
       "possibleAnswers": [
         {
           "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
-          "answer": "YES",
-          "description": "",
-          "isInverted": null,
-          "weight": 1,
-          "id": "86bda2e3-7bea-40ec-8dcc-65892b25c2a3",
-          "isArchived": false,
-          "isDeleted": false
-        },
-        {
-          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
           "answer": "NO",
           "description": "",
           "isInverted": null,
@@ -3673,6 +3713,16 @@
           "isInverted": null,
           "weight": 0,
           "id": "375b6005-df94-4218-822f-0796f12c1f59",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+          "answer": "YES",
+          "description": "",
+          "isInverted": null,
+          "weight": 1,
+          "id": "86bda2e3-7bea-40ec-8dcc-65892b25c2a3",
           "isArchived": false,
           "isDeleted": false
         }
