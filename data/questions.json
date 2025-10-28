@@ -1075,7 +1075,7 @@
       "section": "Section 5: Liabilities",
       "subSection": "a) Metabolic liabilities",
       "sectionDescription": "",
-      "questionBody": "Is the concentration of supplement in human tissue too low to neutralize inactivation of this target? ",
+      "questionBody": "Is the concentration of supplement in human tissue too low to neutralize inactivation of this target (i.e. too low to mediate rescue)? ",
       "toolTip": "",
       "questionType": "MultipleChoice",
       "isRequired": false,
