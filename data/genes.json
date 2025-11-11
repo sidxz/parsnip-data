@@ -2913,7 +2913,7 @@
   },
   {
     "Locus":"Rv0558",
-    "Name":"menH",
+    "Name":"menG",
     "Function":"Involved in menaquinone biosynthesis (at the last step) converts DMKH2 into MKH2 [catalytic activity: S-adenosyl-L-methionine + demethylmenaquinol = S-adenosyl-L-homocysteine + menaquinol].",
     "Functional_Category":"intermediary metabolism and respiration",
     "Gene Ontology":"GO:0008168,GO:0009234",
