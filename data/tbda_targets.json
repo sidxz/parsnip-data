@@ -2,17 +2,17 @@
   {
     "targetName": "MmpL3",
     "accessionNumber": ["Rv0206c"],
-    "chemicalInhibitionScore": 30,
-    "geneticInhibitionScore": 77,
-    "likelihoodScore": 0
+    "chemicalInhibitionScore": 16,
+    "geneticInhibitionScore": 10,
+    "likelihoodScore": 27
   },
 
   {
     "targetName": "RpoB",
     "accessionNumber": ["Rv0667"],
-    "chemicalInhibitionScore": 89,
-    "geneticInhibitionScore": 9,
-    "likelihoodScore": 0
+    "chemicalInhibitionScore": 62,
+    "geneticInhibitionScore": 6,
+    "likelihoodScore": 59
   },
 
   {
@@ -26,64 +26,64 @@
   {
     "targetName": "Pks13",
     "accessionNumber": ["Rv3800c"],
-    "chemicalInhibitionScore": 36,
-    "geneticInhibitionScore": 12,
-    "likelihoodScore": 83
+    "chemicalInhibitionScore": 0,
+    "geneticInhibitionScore": 8,
+    "likelihoodScore": 48
   },
 
   {
     "targetName": "Mdh",
     "accessionNumber": ["Rv1240"],
-    "chemicalInhibitionScore": 16,
-    "geneticInhibitionScore": 40,
-    "likelihoodScore": 0
+    "chemicalInhibitionScore": 0,
+    "geneticInhibitionScore": 0,
+    "likelihoodScore": 37
   },
 
   {
     "targetName": "SecY",
     "accessionNumber": ["Rv0732"],
-    "chemicalInhibitionScore": 10,
-    "geneticInhibitionScore": 15,
-    "likelihoodScore": 0
+    "chemicalInhibitionScore": 0,
+    "geneticInhibitionScore": 12,
+    "likelihoodScore": 6
   },
 
   {
     "targetName": "MenG",
     "accessionNumber": ["Rv0558"],
-    "chemicalInhibitionScore": 5,
-    "geneticInhibitionScore": 15,
-    "likelihoodScore": 0
+    "chemicalInhibitionScore": 0,
+    "geneticInhibitionScore": 6,
+    "likelihoodScore": 8
   },
 
   {
     "targetName": "FtsZ",
     "accessionNumber": ["Rv2150c"],
-    "chemicalInhibitionScore": 3,
-    "geneticInhibitionScore": 17,
-    "likelihoodScore": 0
+    "chemicalInhibitionScore": 0,
+    "geneticInhibitionScore": 13,
+    "likelihoodScore": 37
   },
 
   {
     "targetName": "NadE",
     "accessionNumber": ["Rv2438c"],
     "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 86,
-    "likelihoodScore": 0
+    "geneticInhibitionScore": 5,
+    "likelihoodScore": 28
   },
 
   {
     "targetName": "RibF",
     "accessionNumber": ["Rv2786c"],
     "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 6,
-    "likelihoodScore": 0
+    "geneticInhibitionScore": 0,
+    "likelihoodScore": 16
   },
 
   {
     "targetName": "GyrAB",
     "accessionNumber": ["Rv0005", "Rv0006"],
-    "chemicalInhibitionScore": 75,
-    "geneticInhibitionScore": 14,
-    "likelihoodScore": 0
+    "chemicalInhibitionScore": 0,
+    "geneticInhibitionScore": 0,
+    "likelihoodScore": 55
   }
 ]
