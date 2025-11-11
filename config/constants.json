@@ -53,5 +53,13 @@
   },
   "Other_WORST": {
     "Low Iron": -0.94
+  },
+  "Liability_Category_Scores": {
+    "noLiabilities": 1,
+    "lowConcLiabilities": 1,
+    "unknownConcLiabilities": 0.75,
+    "highConcLiabilities": 0,
+    "geneCompensation": 0.7
   }
+  
 }

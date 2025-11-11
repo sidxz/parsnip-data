@@ -2,32 +2,26 @@
   {
     "targetName": "MmpL3",
     "accessionNumber": ["Rv0206c"],
-    "chemicalInhibitionScore": 21,
-    "geneticInhibitionScore": 14,
+    "chemicalInhibitionScore": 0,
+    "geneticInhibitionScore": 0,
     "likelihoodScore": 27
   },
 
   {
     "targetName": "RpoB",
     "accessionNumber": ["Rv0667"],
-    "chemicalInhibitionScore": 83,
-    "geneticInhibitionScore": 8,
+    "chemicalInhibitionScore": 0,
+    "geneticInhibitionScore": 0,
     "likelihoodScore": 59
   },
 
-  {
-    "targetName": "EmbAB",
-    "accessionNumber": ["Rv3794", "Rv3795"],
-    "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 0,
-    "likelihoodScore": 0
-  },
+
 
   {
     "targetName": "Pks13",
     "accessionNumber": ["Rv3800c"],
     "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 8,
+    "geneticInhibitionScore": 0,
     "likelihoodScore": 48
   },
 
@@ -36,38 +30,38 @@
     "accessionNumber": ["Rv1240"],
     "chemicalInhibitionScore": 0,
     "geneticInhibitionScore": 0,
-    "likelihoodScore": 36
+    "likelihoodScore": 48
   },
 
   {
     "targetName": "SecY",
     "accessionNumber": ["Rv0732"],
     "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 12,
+    "geneticInhibitionScore": 0,
     "likelihoodScore": 6
   },
 
   {
     "targetName": "MenG",
     "accessionNumber": ["Rv0558"],
-    "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 12,
-    "likelihoodScore": 2
+    "chemicalInhibitionScore": 5,
+    "geneticInhibitionScore": 53,
+    "likelihoodScore": 8
   },
 
   {
     "targetName": "FtsZ",
     "accessionNumber": ["Rv2150c"],
     "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 13,
-    "likelihoodScore": 32
+    "geneticInhibitionScore": 0,
+    "likelihoodScore": 37
   },
 
   {
     "targetName": "NadE",
     "accessionNumber": ["Rv2438c"],
     "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 5,
+    "geneticInhibitionScore": 0,
     "likelihoodScore": 28
   },
 
