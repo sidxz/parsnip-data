@@ -1086,6 +1086,16 @@
       "possibleAnswers": [
         {
           "questionId": "4e918e13-3418-4b85-923e-0ab347df3fef",
+          "answer": "NA",
+          "description": "Not Available",
+          "isInverted": null,
+          "weight": 1,
+          "id": "285abefa-1ad9-4943-8317-0840f7f09d55",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "4e918e13-3418-4b85-923e-0ab347df3fef",
           "answer": "NO",
           "description": "The possibility of neutralization of inhibition or inactivation by a supplement or specific media does not exist.  Alternatively, the possibility of inhibition or inactivation neutralization by a supplement or specific media exists but concentrations in human tissue are insufficient to accomplish this. Please describe situation.",
           "isInverted": null,
