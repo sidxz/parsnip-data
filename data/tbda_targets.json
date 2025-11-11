@@ -2,16 +2,16 @@
   {
     "targetName": "MmpL3",
     "accessionNumber": ["Rv0206c"],
-    "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 0,
+    "chemicalInhibitionScore": 31,
+    "geneticInhibitionScore": 77,
     "likelihoodScore": 27
   },
 
   {
     "targetName": "RpoB",
     "accessionNumber": ["Rv0667"],
-    "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 0,
+    "chemicalInhibitionScore": 83,
+    "geneticInhibitionScore": 8,
     "likelihoodScore": 59
   },
 
@@ -20,24 +20,24 @@
   {
     "targetName": "Pks13",
     "accessionNumber": ["Rv3800c"],
-    "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 0,
+    "chemicalInhibitionScore": 36,
+    "geneticInhibitionScore": 11,
     "likelihoodScore": 48
   },
 
   {
     "targetName": "Mdh",
     "accessionNumber": ["Rv1240"],
-    "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 0,
+    "chemicalInhibitionScore": 16,
+    "geneticInhibitionScore": 39,
     "likelihoodScore": 48
   },
 
   {
     "targetName": "SecY",
     "accessionNumber": ["Rv0732"],
-    "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 0,
+    "chemicalInhibitionScore": 10,
+    "geneticInhibitionScore": 16,
     "likelihoodScore": 6
   },
 
@@ -52,8 +52,8 @@
   {
     "targetName": "FtsZ",
     "accessionNumber": ["Rv2150c"],
-    "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 0,
+    "chemicalInhibitionScore": 3,
+    "geneticInhibitionScore": 18,
     "likelihoodScore": 37
   },
 
@@ -61,7 +61,7 @@
     "targetName": "NadE",
     "accessionNumber": ["Rv2438c"],
     "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 0,
+    "geneticInhibitionScore": 83,
     "likelihoodScore": 28
   },
 
@@ -69,15 +69,15 @@
     "targetName": "RibF",
     "accessionNumber": ["Rv2786c"],
     "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 0,
+    "geneticInhibitionScore": 7,
     "likelihoodScore": 16
   },
 
   {
     "targetName": "GyrAB",
     "accessionNumber": ["Rv0005", "Rv0006"],
-    "chemicalInhibitionScore": 0,
-    "geneticInhibitionScore": 0,
+    "chemicalInhibitionScore": 76,
+    "geneticInhibitionScore":11,
     "likelihoodScore": 55
   }
 ]
