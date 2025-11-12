@@ -4,7 +4,7 @@
     "accessionNumber": ["Rv0206c"],
     "chemicalInhibitionScore": 31,
     "geneticInhibitionScore": 77,
-    "likelihoodScore": 27
+    "likelihoodScore": 32
   },
 
   {
@@ -12,7 +12,7 @@
     "accessionNumber": ["Rv0667"],
     "chemicalInhibitionScore": 83,
     "geneticInhibitionScore": 8,
-    "likelihoodScore": 59
+    "likelihoodScore": 64
   },
 
 
@@ -22,7 +22,7 @@
     "accessionNumber": ["Rv3800c"],
     "chemicalInhibitionScore": 36,
     "geneticInhibitionScore": 11,
-    "likelihoodScore": 33
+    "likelihoodScore": 51
   },
 
   {
@@ -30,7 +30,7 @@
     "accessionNumber": ["Rv1240"],
     "chemicalInhibitionScore": 16,
     "geneticInhibitionScore": 39,
-    "likelihoodScore": 48
+    "likelihoodScore": 41
   },
 
   {
