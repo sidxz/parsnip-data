@@ -2716,11 +2716,11 @@
       "possibleAnswers": [
         {
           "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
-          "answer": "IND",
+          "answer": "CANDIDATE",
           "description": "",
           "isInverted": null,
           "weight": 8,
-          "id": "50a6fe29-1534-4463-b3b5-e1ae7f940cd9",
+          "id": "3b366686-0f31-49c7-8792-c5558f6cf34a",
           "isArchived": false,
           "isDeleted": false
         },
@@ -2749,7 +2749,7 @@
           "answer": "H2L",
           "description": "",
           "isInverted": null,
-          "weight": 5,
+          "weight": 4,
           "id": "b58eeb03-e0b1-4ffe-8d81-e5f63beee66b",
           "isArchived": false,
           "isDeleted": false
@@ -2759,8 +2759,18 @@
           "answer": "HA",
           "description": "",
           "isInverted": null,
-          "weight": 4,
+          "weight": 3,
           "id": "db8d2961-62b0-4b97-b1db-3bacbb05113b",
+          "isArchived": false,
+          "isDeleted": false
+        },
+        {
+          "questionId": "118da8fc-8f62-4fbd-9b30-8c95a4e3c48a",
+          "answer": "IND",
+          "description": "",
+          "isInverted": null,
+          "weight": 7,
+          "id": "50a6fe29-1534-4463-b3b5-e1ae7f940cd9",
           "isArchived": false,
           "isDeleted": false
         },
@@ -2769,7 +2779,7 @@
           "answer": "LO",
           "description": "",
           "isInverted": null,
-          "weight": 6,
+          "weight": 5,
           "id": "883a18ad-617d-47d7-84a1-3e7b3ce8cbc6",
           "isArchived": false,
           "isDeleted": false
@@ -2789,7 +2799,7 @@
           "answer": "SCREENING HIT",
           "description": "",
           "isInverted": null,
-          "weight": 3,
+          "weight": 0,
           "id": "a11f93c7-f827-4da4-bc67-067cb492a1ca",
           "isArchived": false,
           "isDeleted": false
@@ -2799,7 +2809,7 @@
           "answer": "SP",
           "description": "",
           "isInverted": null,
-          "weight": 7,
+          "weight": 6,
           "id": "437cb6d6-ae36-4939-bb75-5d0ea1ca0ba2",
           "isArchived": false,
           "isDeleted": false
