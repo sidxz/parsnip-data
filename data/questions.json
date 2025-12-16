@@ -1183,7 +1183,7 @@
       "section": "Section 5: Liabilities",
       "subSection": "c) Other",
       "sectionDescription": "",
-      "questionBody": " Have inhibitors of this target with low cellular toxicity been isolated or does this target contain an active or allosteric site that is different from the human counterpart?",
+      "questionBody": "Have inhibitors of this target with low cellular toxicity been isolated or does this target contain an active or allosteric site that is different from the human counterpart?",
       "toolTip": "",
       "questionType": "MultipleChoice",
       "isRequired": false,
