@@ -4,7 +4,8 @@
     "accessionNumber": ["Rv0206c"],
     "chemicalInhibitionScore": 31,
     "geneticInhibitionScore": 77,
-    "likelihoodScore": 32
+    "likelihoodScore": 32,
+    "totalInhibitionScore" : 31
   },
 
   {
@@ -12,7 +13,8 @@
     "accessionNumber": ["Rv0667"],
     "chemicalInhibitionScore": 83,
     "geneticInhibitionScore": 8,
-    "likelihoodScore": 64
+    "likelihoodScore": 64,
+    "totalInhibitionScore" : 83
   },
 
 
@@ -22,7 +24,8 @@
     "accessionNumber": ["Rv3800c"],
     "chemicalInhibitionScore": 36,
     "geneticInhibitionScore": 11,
-    "likelihoodScore": 44
+    "likelihoodScore": 44,
+    "totalInhibitionScore" : 36
   },
 
   {
@@ -30,7 +33,8 @@
     "accessionNumber": ["Rv1240"],
     "chemicalInhibitionScore": 16,
     "geneticInhibitionScore": 39,
-    "likelihoodScore": 41
+    "likelihoodScore": 41,
+    "totalInhibitionScore" : 16
   },
 
   {
@@ -38,7 +42,8 @@
     "accessionNumber": ["Rv0732"],
     "chemicalInhibitionScore": 10,
     "geneticInhibitionScore": 16,
-    "likelihoodScore": 11
+    "likelihoodScore": 11,
+    "totalInhibitionScore" : 12
   },
 
   {
@@ -46,7 +51,8 @@
     "accessionNumber": ["Rv0558"],
     "chemicalInhibitionScore": 5,
     "geneticInhibitionScore": 53,
-    "likelihoodScore": 14
+    "likelihoodScore": 10,
+    "totalInhibitionScore" : 20
   },
 
   {
@@ -54,7 +60,8 @@
     "accessionNumber": ["Rv2150c"],
     "chemicalInhibitionScore": 3,
     "geneticInhibitionScore": 18,
-    "likelihoodScore": 40
+    "likelihoodScore": 40,
+    "totalInhibitionScore" : 7
   },
 
   {
@@ -62,7 +69,8 @@
     "accessionNumber": ["Rv2438c"],
     "chemicalInhibitionScore": 0,
     "geneticInhibitionScore": 83,
-    "likelihoodScore": 36
+    "likelihoodScore": 36,
+    "totalInhibitionScore" : 25
   },
 
   {
@@ -70,7 +78,8 @@
     "accessionNumber": ["Rv2786c"],
     "chemicalInhibitionScore": 0,
     "geneticInhibitionScore": 7,
-    "likelihoodScore": 21
+    "likelihoodScore": 21,
+    "totalInhibitionScore" : 2
   },
 
   {
@@ -78,6 +87,7 @@
     "accessionNumber": ["Rv0005", "Rv0006"],
     "chemicalInhibitionScore": 76,
     "geneticInhibitionScore":11,
-    "likelihoodScore": 60
+    "likelihoodScore": 60,
+    "totalInhibitionScore" : 76
   }
 ]
