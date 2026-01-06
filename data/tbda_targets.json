@@ -12,7 +12,7 @@
     "targetName": "RpoB",
     "accessionNumber": ["Rv0667"],
     "chemicalInhibitionScore": 83,
-    "geneticInhibitionScore": 8,
+    "geneticInhibitionScore": 72,
     "likelihoodScore": 64,
     "totalInhibitionScore" : 83
   },
