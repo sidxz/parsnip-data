@@ -1087,7 +1087,7 @@
         {
           "questionId": "4e918e13-3418-4b85-923e-0ab347df3fef",
           "answer": "NA",
-          "description": "Not Available",
+          "description": "Not Applicable. The possibility of neutralization of inhibition or inactivation by a supplement or specific media does not exist.",
           "isInverted": null,
           "weight": 1,
           "id": "285abefa-1ad9-4943-8317-0840f7f09d55",
@@ -1097,7 +1097,7 @@
         {
           "questionId": "4e918e13-3418-4b85-923e-0ab347df3fef",
           "answer": "NO",
-          "description": "The possibility of neutralization of inhibition or inactivation by a supplement or specific media does not exist.  Alternatively, the possibility of inhibition or inactivation neutralization by a supplement or specific media exists but concentrations in human tissue are insufficient to accomplish this. Please describe situation.",
+          "description": "Inhibition or inactivation of this target can be neutralized by a supplement or specific media and the concentration of this supplement in human tissue has been measured to be high enough to accomplish neutralization. Inhibition of this target is therefore expected to be ineffective in human tissue.",
           "isInverted": null,
           "weight": 0,
           "id": "112bfdf6-2126-4981-a1b7-50e7e395140a",
@@ -1107,7 +1107,7 @@
         {
           "questionId": "4e918e13-3418-4b85-923e-0ab347df3fef",
           "answer": "UNKNOWN",
-          "description": "The possibility of neutralization of inhibition or inactivation by a supplement or specific media exists but it is unknown, or it has not been demonstrated that concentrations in human tissue are sufficient to accomplish this. Please describe situation.",
+          "description": "Inhibition or inactivation of this target can be neutralized by a supplement or specific media and the concentration of this supplement in human tissue remains to be determined. It is therefore unknown if inhibition of this target in human tissue will be effective.",
           "isInverted": null,
           "weight": 0.75,
           "id": "088b898f-0a73-4be6-981c-88d1f3bd0ba5",
@@ -1117,7 +1117,7 @@
         {
           "questionId": "4e918e13-3418-4b85-923e-0ab347df3fef",
           "answer": "YES",
-          "description": "If it is known that the concentration of supplement in human tissue is too low to neutralize inactivation of the target, please elaborate.",
+          "description": "Inhibition or inactivation of this target can be neutralized by a supplement or specific media but the concentration of this supplement in human tissue has been measured to be too low to accomplish neutralization. Inhibition of this target is therefore expected to be effective in human tissue.",
           "isInverted": null,
           "weight": 1,
           "id": "285abefa-1ad9-4943-8317-0840f7f09d69",
