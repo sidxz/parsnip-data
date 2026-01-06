@@ -355,7 +355,7 @@
         {
           "questionId": "15359627-6fb8-440d-b29e-197637294eae",
           "answer": "ACTIVE",
-          "description": "A compound that engages the target was shown to be active in an Mtb assay using a gluconeogenic carbon source.  Please describe conditions.",
+          "description": "A compound that engages the target was shown to be active in an Mtb assay using a gluconeogenic carbon source.",
           "isInverted": null,
           "weight": 24.75,
           "id": "d04a4017-b772-4b43-bb26-6dc3cf2d7723",
@@ -365,7 +365,7 @@
         {
           "questionId": "15359627-6fb8-440d-b29e-197637294eae",
           "answer": "INACTIVE",
-          "description": "A compound that engages the target was shown to be inactive in an Mtb assay using a gluconeogenic carbon source. Please describe conditions.",
+          "description": "A compound that engages the target was shown to be inactive in an Mtb assay using a gluconeogenic carbon source. ",
           "isInverted": null,
           "weight": 0,
           "id": "201e6768-7e15-4ee0-a72b-8fe2e9869a64",
@@ -375,7 +375,7 @@
         {
           "questionId": "15359627-6fb8-440d-b29e-197637294eae",
           "answer": "UNKNOWN",
-          "description": "No compound that engages the target has been tested in an Mtb assay using a gluconeogenic carbon source.  Alternatively, the level of target engagement for a particular compound that has been tested in an Mtb assay using a gluconeogenic carbon source is uncertain. Please describe conditions.",
+          "description": "No compound that engages the target has been tested in an Mtb assay using a gluconeogenic carbon source.  Alternatively, the level of target engagement for a particular compound that has been tested in an Mtb assay using a gluconeogenic carbon source is uncertain. ",
           "isInverted": null,
           "weight": 0.25,
           "id": "d6dd9139-e941-4374-9f39-08581834a624",
@@ -403,7 +403,7 @@
         {
           "questionId": "ea2e3433-3625-4b53-a520-aee92ccfcc0c",
           "answer": "ACTIVE",
-          "description": "A compound that engages the target was shown to be active in an Mtb assay under other conditions.  Please describe conditions.",
+          "description": "A compound that engages the target was shown to be active in an Mtb assay under other conditions.  ",
           "isInverted": null,
           "weight": 24.75,
           "id": "d5c9a1cd-c15a-4a1f-8ef0-8b736dacf442",
@@ -413,7 +413,7 @@
         {
           "questionId": "ea2e3433-3625-4b53-a520-aee92ccfcc0c",
           "answer": "INACTIVE",
-          "description": "A compound that engages the target was shown to be inactive in an Mtb assay under other conditions. Please describe conditions.",
+          "description": "A compound that engages the target was shown to be inactive in an Mtb assay under other conditions. ",
           "isInverted": null,
           "weight": 0,
           "id": "4a1856bf-3532-4802-a311-0c4890910d92",
@@ -423,7 +423,7 @@
         {
           "questionId": "ea2e3433-3625-4b53-a520-aee92ccfcc0c",
           "answer": "UNKNOWN",
-          "description": "No compound that engages the target has been tested in an Mtb assay under other conditions.  Alternatively, the level of target engagement for a particular compound that has been tested in an Mtb assay under other conditions is uncertain.  Please describe conditions.",
+          "description": "No compound that engages the target has been tested in an Mtb assay under other conditions.  Alternatively, the level of target engagement for a particular compound that has been tested in an Mtb assay under other conditions is uncertain.  ",
           "isInverted": null,
           "weight": 0.25,
           "id": "2ae72e7f-6826-4bcd-a99c-286b5adbb7a0",
@@ -451,7 +451,7 @@
         {
           "questionId": "49488323-7b56-4562-aa09-7fc1e607d815",
           "answer": "ACTIVE",
-          "description": "A compound that engages the target was shown to be active in an Mtb assay in caseum or caseum surrogate. Please describe conditions.",
+          "description": "A compound that engages the target was shown to be active in an Mtb assay in caseum or caseum surrogate. ",
           "isInverted": null,
           "weight": 89.1,
           "id": "9a677515-1393-4c3f-b256-f6fa1c3c35b8",
@@ -461,7 +461,7 @@
         {
           "questionId": "49488323-7b56-4562-aa09-7fc1e607d815",
           "answer": "INACTIVE",
-          "description": "A compound that engages the target was shown to be inactive in an Mtb assay in caseum or caseum surrogate. Please describe conditions.",
+          "description": "A compound that engages the target was shown to be inactive in an Mtb assay in caseum or caseum surrogate. ",
           "isInverted": null,
           "weight": 0,
           "id": "3cefb3fe-1136-4ca9-b4ef-c09b8ad30027",
@@ -471,7 +471,7 @@
         {
           "questionId": "49488323-7b56-4562-aa09-7fc1e607d815",
           "answer": "UNKNOWN",
-          "description": "No compound that engages the target has been tested in an Mtb assay in caseum or caseum surrogate.  Alternatively, the level of target engagement for a particular compound that has been tested in an Mtb assay in caseum is uncertain.  Please describe conditions.",
+          "description": "No compound that engages the target has been tested in an Mtb assay in caseum or caseum surrogate.  Alternatively, the level of target engagement for a particular compound that has been tested in an Mtb assay in caseum is uncertain.  ",
           "isInverted": null,
           "weight": 0.9,
           "id": "64339af1-c124-4a1b-9a05-68b7ccdc4fbf",
@@ -499,7 +499,7 @@
         {
           "questionId": "0171f15f-5ae9-4689-a7b8-5316dae3a668",
           "answer": "ACTIVE",
-          "description": "A compound that engages the target was shown to be active in an Mtb assay under other NR conditions.  Please describe conditions.",
+          "description": "A compound that engages the target was shown to be active in an Mtb assay under other NR conditions.  ",
           "isInverted": null,
           "weight": 9.9,
           "id": "274c7bb9-00e9-4977-ba07-115487d945ab",
@@ -509,7 +509,7 @@
         {
           "questionId": "0171f15f-5ae9-4689-a7b8-5316dae3a668",
           "answer": "INACTIVE",
-          "description": "A compound that engages the target was shown to be inactive in an Mtb assay under other NR conditions. Please describe conditions.",
+          "description": "A compound that engages the target was shown to be inactive in an Mtb assay under other NR conditions. ",
           "isInverted": null,
           "weight": 0,
           "id": "092842fa-1420-4182-8b76-435dee5877d8",
@@ -519,7 +519,7 @@
         {
           "questionId": "0171f15f-5ae9-4689-a7b8-5316dae3a668",
           "answer": "UNKNOWN",
-          "description": "No compound that engages the target has been tested in an Mtb assay under other NR conditions.  Alternatively, the level of target engagement for a particular compound that has been tested in an Mtb assay under other NR conditions is uncertain.  Please describe conditions.",
+          "description": "No compound that engages the target has been tested in an Mtb assay under other NR conditions.  Alternatively, the level of target engagement for a particular compound that has been tested in an Mtb assay under other NR conditions is uncertain.  ",
           "isInverted": null,
           "weight": 0.1,
           "id": "d65c28dc-7711-4058-83b4-fb9180e5e149",
@@ -691,7 +691,7 @@
         {
           "questionId": "d2eae599-1b33-429a-92e7-506cd38a1f1a",
           "answer": "NO",
-          "description": "Compounds do not have an impact on the pathway that the target of interest is part of. Please describe studies that were undertaken.",
+          "description": "Compounds do not have an impact on the pathway that the target of interest is part of. ",
           "isInverted": null,
           "weight": 0,
           "id": "78693ade-9480-4dd5-b69b-d67ace54efa7",
@@ -701,7 +701,7 @@
         {
           "questionId": "d2eae599-1b33-429a-92e7-506cd38a1f1a",
           "answer": "UNKNOWN",
-          "description": "Pathway studies have not been undertaken on compounds that are thought to engage the target.  Alternatively, pathway studies on compounds that are thought to engage the target are inconclusive.  Please describe studies that were undertaken.",
+          "description": "Pathway studies have not been undertaken on compounds that are thought to engage the target.  Alternatively, pathway studies on compounds that are thought to engage the target are inconclusive.  ",
           "isInverted": null,
           "weight": 0.2,
           "id": "d72e8a99-c36d-4ed2-bf1c-a2c596e823d8",
@@ -711,7 +711,7 @@
         {
           "questionId": "d2eae599-1b33-429a-92e7-506cd38a1f1a",
           "answer": "YES",
-          "description": "Compounds have an impact on the pathway that the target of interest is part of. Please describe studies that were undertaken.",
+          "description": "Compounds have an impact on the pathway that the target of interest is part of. ",
           "isInverted": null,
           "weight": 16.5,
           "id": "defc7477-4085-4c24-9d81-de7fa637e1d8",
@@ -739,7 +739,7 @@
         {
           "questionId": "f3e66764-087f-471b-ad56-61c8ba28a386",
           "answer": "NO",
-          "description": "Compounds do not bind purified target.  Please describe type of study.",
+          "description": "Compounds do not bind purified target.  ",
           "isInverted": null,
           "weight": 0,
           "id": "2ebbd133-49f3-4ca1-b097-6ccd198e61d7",
@@ -749,7 +749,7 @@
         {
           "questionId": "f3e66764-087f-471b-ad56-61c8ba28a386",
           "answer": "UNKNOWN",
-          "description": "Binding studies have not been undertaken on compounds that are thought to engage the target.  Alternatively, binding studies on compounds that are thought to engage the target are inconclusive.  Please describe type of study.",
+          "description": "Binding studies have not been undertaken on compounds that are thought to engage the target.  Alternatively, binding studies on compounds that are thought to engage the target are inconclusive.  ",
           "isInverted": null,
           "weight": 0.2,
           "id": "0cd490b6-99b9-47b2-a558-0d80dacddeae",
@@ -759,7 +759,7 @@
         {
           "questionId": "f3e66764-087f-471b-ad56-61c8ba28a386",
           "answer": "YES",
-          "description": "Compounds bind purified target. Please describe type of study.",
+          "description": "Compounds bind purified target. ",
           "isInverted": null,
           "weight": 16.5,
           "id": "7ef14939-90a9-42cf-98bb-f40c7b78d41e",
@@ -787,7 +787,7 @@
         {
           "questionId": "925b0c93-cb75-4770-a0d7-3ef06985934d",
           "answer": "NO",
-          "description": "Compounds do not inhibit purified target. Please describe assay.",
+          "description": "Compounds do not inhibit purified target. ",
           "isInverted": null,
           "weight": 0,
           "id": "d635b67d-4e0f-4c77-8c1f-7fc5817d83b6",
@@ -797,7 +797,7 @@
         {
           "questionId": "925b0c93-cb75-4770-a0d7-3ef06985934d",
           "answer": "UNKNOWN",
-          "description": "Inhibition studies have not been undertaken on compounds that are thought to engage the target.  Alternatively, inhibition studies on compounds that are thought to engage the target are inconclusive. Please describe assay.",
+          "description": "Inhibition studies have not been undertaken on compounds that are thought to engage the target.  Alternatively, inhibition studies on compounds that are thought to engage the target are inconclusive. ",
           "isInverted": null,
           "weight": 0.2,
           "id": "958b7b76-1e99-453e-99df-fad707a4d960",
@@ -807,7 +807,7 @@
         {
           "questionId": "925b0c93-cb75-4770-a0d7-3ef06985934d",
           "answer": "YES",
-          "description": "Compounds inhibit purified target. Please describe assay.",
+          "description": "Compounds inhibit purified target. ",
           "isInverted": null,
           "weight": 16.5,
           "id": "1a999236-19b5-4757-a0a5-79b4ae09912b",
@@ -979,7 +979,7 @@
         {
           "questionId": "e493dd1c-cc96-47e4-8e75-983e224ac72f",
           "answer": "ACTIVE",
-          "description": "There was a significant impact on the relative growth behavior of genetically modified bacteria tested in caseum surrogate.  Please describe assay.",
+          "description": "There was a significant impact on the relative growth behavior of genetically modified bacteria tested in caseum surrogate.  ",
           "isInverted": null,
           "weight": 89.1,
           "id": "5b5c73bd-7a65-4d39-a68c-cc785252c8f1",
@@ -989,7 +989,7 @@
         {
           "questionId": "e493dd1c-cc96-47e4-8e75-983e224ac72f",
           "answer": "INACTIVE",
-          "description": "There was not a significant impact on the relative growth behavior of genetically modified bacteria tested in caseum surrogate.  Please describe assay.",
+          "description": "There was not a significant impact on the relative growth behavior of genetically modified bacteria tested in caseum surrogate.  ",
           "isInverted": null,
           "weight": 0,
           "id": "bc2ed45c-12fd-4305-9061-e977b578db57",
@@ -999,7 +999,7 @@
         {
           "questionId": "e493dd1c-cc96-47e4-8e75-983e224ac72f",
           "answer": "UNKNOWN",
-          "description": "Genetically modified bacteria have not been prepared and/or were not tested in caseum surrogate.  Alternatively, the outcome from a genetically modified bacteria growth study in caseum surrogate was inconclusive.  Please describe assay.",
+          "description": "Genetically modified bacteria have not been prepared and/or were not tested in caseum surrogate.  Alternatively, the outcome from a genetically modified bacteria growth study in caseum surrogate was inconclusive.  ",
           "isInverted": null,
           "weight": 0.9,
           "id": "3fe00e55-ef75-4b26-8492-f2e8664f85ad",
@@ -1047,7 +1047,7 @@
         {
           "questionId": "cc8de94f-d4c8-4b56-a91f-d04926c6a15a",
           "answer": "UNKNOWN",
-          "description": "The possibility of inhibition or inactivation neutralization of inhibition or inactivation by a supplement or specific media exists but has not been demonstrated in vitro or in vivo. Please describe situation.",
+          "description": "The possibility of inhibition or inactivation neutralization of inhibition or inactivation by a supplement or specific media exists but has not been demonstrated in vitro or in vivo.",
           "isInverted": null,
           "weight": 1,
           "id": "ad64cd1e-9b04-4b71-8c3c-6ebc227e754d",
@@ -1057,7 +1057,7 @@
         {
           "questionId": "cc8de94f-d4c8-4b56-a91f-d04926c6a15a",
           "answer": "YES",
-          "description": "The possibility of neutralization of inhibition or inactivation by a supplement or specific media exists and has been demonstrated in vitro or in vivo. Please describe situation.",
+          "description": "The possibility of neutralization of inhibition or inactivation by a supplement or specific media exists and has been demonstrated in vitro or in vivo.",
           "isInverted": null,
           "weight": 1,
           "id": "3106b75d-13c4-4695-a84d-b08de86a11ee",
@@ -1727,7 +1727,7 @@
         {
           "questionId": "3d2ba995-e97e-4dac-9dd8-84d4e5de88ed",
           "answer": "NO",
-          "description": "Compounds do not bind purified target. Please describe type of study.",
+          "description": "Compounds do not bind purified target. ",
           "isInverted": null,
           "weight": 0,
           "id": "40882978-8e77-4dd7-a36c-0fdf6938741d",
@@ -1737,7 +1737,7 @@
         {
           "questionId": "3d2ba995-e97e-4dac-9dd8-84d4e5de88ed",
           "answer": "UNKNOWN",
-          "description": "Binding studies have not been undertaken on compounds that are thought to engage1 the target.  Alternatively, binding studies on compounds that are thought to engage1 the target are inconclusive.  Please describe type of study.",
+          "description": "Binding studies have not been undertaken on compounds that are thought to engage1 the target.  Alternatively, binding studies on compounds that are thought to engage1 the target are inconclusive.  ",
           "isInverted": null,
           "weight": 0,
           "id": "2de8fc3b-743d-4757-a767-8096e5dd0206",
@@ -1747,7 +1747,7 @@
         {
           "questionId": "3d2ba995-e97e-4dac-9dd8-84d4e5de88ed",
           "answer": "YES",
-          "description": "Compounds bind purified target. Please describe type of study.",
+          "description": "Compounds bind purified target. ",
           "isInverted": null,
           "weight": 5,
           "id": "0f287415-56b7-4539-a06a-019eb37d263e",
